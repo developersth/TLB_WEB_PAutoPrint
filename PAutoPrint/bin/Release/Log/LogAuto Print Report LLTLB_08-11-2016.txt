@@ -1,0 +1,14 @@
+1-Auto Print Report LLTLB>08/11/2016 08:24:28><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>08/11/2016 08:24:35> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>08/11/2016 08:24:35> Database connect successful.
+1-Auto Print Report LLTLB>08/11/2016 08:24:59><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>08/11/2016 08:25:05> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>08/11/2016 08:25:05> Database connect successful.
+1-Auto Print Report LLTLB>08/11/2016 08:25:08><------------Application Stop-------------->
+1-Auto Print Report LLTLB>08/11/2016 08:25:11>Object reference not set to an instance of an object.[PAutoPrintReport-InitialDataGrid]
+1-Auto Print Report LLTLB>08/11/2016 08:25:31><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>08/11/2016 08:25:37> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>08/11/2016 08:25:37> Database connect successful.

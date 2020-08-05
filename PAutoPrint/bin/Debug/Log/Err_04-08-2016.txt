@@ -1,0 +1,36 @@
+04/08/2016 11:37:28> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/6
+04/08/2016 11:37:28> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:37:28> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/7
+04/08/2016 11:37:28> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:37:28> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/8
+04/08/2016 11:37:28> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:44:05> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/6
+04/08/2016 11:44:05> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:44:05> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/7
+04/08/2016 11:44:05> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:44:05> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/8
+04/08/2016 11:44:05> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:47:32> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/6
+04/08/2016 11:47:32> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:47:32> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/7
+04/08/2016 11:47:32> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:47:32> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/8
+04/08/2016 11:47:32> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:49:38> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/6
+04/08/2016 11:49:38> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:49:38> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/7
+04/08/2016 11:49:38> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:49:38> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/8
+04/08/2016 11:49:38> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:50:17> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/6
+04/08/2016 11:50:17> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:50:17> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/7
+04/08/2016 11:50:17> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:50:17> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/8
+04/08/2016 11:50:17> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:52:22> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/6
+04/08/2016 11:52:22> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:52:22> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/7
+04/08/2016 11:52:22> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+04/08/2016 11:52:22> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/8
+04/08/2016 11:52:22> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง

@@ -1,0 +1,5 @@
+20/10/2016 20:17:48> [OpenDyns]select t.* from tas.view_load_mass_report_daily t where t.eod_date =to_date('20/10/2016','dd/MM/yyyy')
+20/10/2016 20:17:48> ORA-00942: table or view does not exist
+20/10/2016 20:20:09> [Print Weight, Check status loading] Object reference not set to an instance of an object.
+20/10/2016 20:20:10> [Print Instruction, CheckStatusLoading] Object reference not set to an instance of an object.
+20/10/2016 20:20:10> [Print Instruction, CheckStatusLoading] Object reference not set to an instance of an object.

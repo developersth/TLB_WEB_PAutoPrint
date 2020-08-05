@@ -1,0 +1,2 @@
+12/07/2016 17:29:11> Cannot open [select ,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_INITAIL t where t.scan_id=1 order by t.scan_id]
+12/07/2016 17:29:11> ORA-00936: missing expression

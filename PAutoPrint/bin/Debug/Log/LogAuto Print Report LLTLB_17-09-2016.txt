@@ -1,0 +1,35 @@
+1-Auto Print Report LLTLB>17/09/2016 11:29:20><------------Application Start------------->
+1-Auto Print Report LLTLB>17/09/2016 11:29:26> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>17/09/2016 11:29:26> Database connect successful.
+1-Auto Print Report LLTLB>17/09/2016 11:32:39><------------Application Start------------->
+1-Auto Print Report LLTLB>17/09/2016 11:32:45> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>17/09/2016 11:32:45> Database connect successful.
+1-Auto Print Report LLTLB>17/09/2016 13:34:41><------------Application Start------------->
+1-Auto Print Report LLTLB>17/09/2016 13:34:47> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>17/09/2016 13:34:47> Database connect successful.
+1-Auto Print Report LLTLB>17/09/2016 14:12:38><------------Application Start------------->
+1-Auto Print Report LLTLB>17/09/2016 14:12:44> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>17/09/2016 14:12:44> Database connect successful.
+1-Auto Print Report LLTLB>17/09/2016 14:14:06><------------Application Start------------->
+1-Auto Print Report LLTLB>17/09/2016 14:14:12> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>17/09/2016 14:14:12> Database connect successful.
+1-Auto Print Report LLTLB>Print Report Loading NO 510176031
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176031
+1-Auto Print Report LLTLB>Print Report Weight NO 510176031
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176031
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176035
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176035
+1-Auto Print Report LLTLB>Print Report Loading NO 510176035
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176035
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176036
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176036
+1-Auto Print Report LLTLB>Print Report Loading NO 510176036
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176036
+1-Auto Print Report LLTLB>Print Report Weight NO 510176036
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176036
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176037
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176037
+1-Auto Print Report LLTLB>Print Report Loading NO 510176037
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176037
+1-Auto Print Report LLTLB>17/09/2016 20:09:55><------------Application Stop-------------->
+1-Auto Print Report LLTLB>17/09/2016 20:09:57> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\Print_Auto\AutoPrint\bin\Debug\Log\Err_17-09-2016.txt' because it is being used by another process.[source>mscorlib]

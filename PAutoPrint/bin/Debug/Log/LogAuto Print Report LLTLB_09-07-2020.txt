@@ -1,0 +1,16 @@
+1-Auto Print Report LLTLB>09/07/2020 13:57:37><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Debug\Report File\
+1-Auto Print Report LLTLB>09/07/2020 14:48:13><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Debug\Report File\
+1-Auto Print Report LLTLB>09/07/2020 14:48:21>Object reference not set to an instance of an object.[PAutoPrintReport-InitialDatabase]
+1-Auto Print Report LLTLB>09/07/2020 14:48:21> SERVER A-LLTLB
+1-Auto Print Report LLTLB>09/07/2020 14:48:21> Database connect successful.
+1-Auto Print Report LLTLB>09/07/2020 14:48:35><------------Application Stop-------------->
+1-Auto Print Report LLTLB>09/07/2020 14:48:45><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Debug\Report File\
+1-Auto Print Report LLTLB>09/07/2020 14:48:47> SERVER A-LLTLB
+1-Auto Print Report LLTLB>09/07/2020 14:48:47> Database connect successful.
+1-Auto Print Report LLTLB>09/07/2020 14:50:15><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Debug\Report File\
+1-Auto Print Report LLTLB>09/07/2020 14:50:16> SERVER A-LLTLB
+1-Auto Print Report LLTLB>09/07/2020 14:50:16> Database connect successful.

@@ -1,0 +1,30 @@
+28/07/2016 19:15:27> Send
+                           System.Collections.ListDictionaryInternal
+                           Object reference not set to an instance of an object.
+28/07/2016 19:15:27> Receive
+                           System.Collections.ListDictionaryInternal
+                           Object reference not set to an instance of an object.
+28/07/2016 19:15:28> Send
+                           System.Collections.ListDictionaryInternal
+                           Object reference not set to an instance of an object.
+28/07/2016 19:15:28> Receive
+                           System.Collections.ListDictionaryInternal
+                           Object reference not set to an instance of an object.
+28/07/2016 19:15:28> Send
+                           System.Collections.ListDictionaryInternal
+                           Object reference not set to an instance of an object.
+28/07/2016 19:15:28> Receive
+                           System.Collections.ListDictionaryInternal
+                           Object reference not set to an instance of an object.
+28/07/2016 19:15:30> Send
+                           System.Collections.ListDictionaryInternal
+                           Object reference not set to an instance of an object.
+28/07/2016 19:15:30> Receive
+                           System.Collections.ListDictionaryInternal
+                           Object reference not set to an instance of an object.
+28/07/2016 19:15:31> Send
+                           System.Collections.ListDictionaryInternal
+                           Object reference not set to an instance of an object.
+28/07/2016 19:15:31> Receive
+                           System.Collections.ListDictionaryInternal
+                           Object reference not set to an instance of an object.

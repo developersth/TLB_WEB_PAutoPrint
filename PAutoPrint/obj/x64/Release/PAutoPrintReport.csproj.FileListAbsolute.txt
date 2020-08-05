@@ -1,0 +1,15 @@
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\x64\Release\PAutoPrintReport.exe.config
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\x64\Release\AppStartup.ini
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\x64\Release\PAutoPrintReport.exe
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\x64\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\x64\Release\CrystalDecisions.ReportSource.dll
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\x64\Release\CrystalDecisions.Shared.dll
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\x64\Release\IniLib.dll
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\x64\Release\log4net.dll
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\x64\Release\Oracle.DataAccess.dll
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\x64\Release\Unme.Common.dll
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\obj\x64\Release\PAutoPrintReport.csprojResolveAssemblyReference.cache
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\obj\x64\Release\PAutoPrintReport.frmMain.resources
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\obj\x64\Release\PAutoPrintReport.Properties.Resources.resources
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\obj\x64\Release\PAutoPrintReport.csproj.GenerateResource.Cache
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\obj\x64\Release\PAutoPrintReport.exe

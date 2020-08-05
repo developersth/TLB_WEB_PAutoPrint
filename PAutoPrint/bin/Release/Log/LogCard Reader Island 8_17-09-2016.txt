@@ -1,0 +1,20 @@
+1-Card Reader Island 8>17/09/2016 11:33:20><------------Application Start------------->
+1-Card Reader Island 8>17/09/2016 11:33:26> SERVER A-LLTLBA
+1-Card Reader Island 8>17/09/2016 11:33:26> Database connect successful.
+1-Card Reader Island 8>17/09/2016 11:33:49><------------Application Start------------->
+1-Card Reader Island 8>17/09/2016 11:33:55> SERVER A-LLTLBA
+1-Card Reader Island 8>17/09/2016 11:33:55> Database connect successful.
+1-Card Reader Island 8>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176031
+1-Card Reader Island 8>UPDATE PRINT STATUS of LOAD HEAD NO: 510176031
+1-Card Reader Island 8>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176032
+1-Card Reader Island 8>UPDATE PRINT STATUS of LOAD HEAD NO: 510176032
+1-Card Reader Island 8>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176033
+1-Card Reader Island 8>UPDATE PRINT STATUS of LOAD HEAD NO: 510176033
+1-Card Reader Island 8>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176034
+1-Card Reader Island 8>UPDATE PRINT STATUS of LOAD HEAD NO: 510176034
+1-Card Reader Island 8>17/09/2016 13:30:55><------------Application Stop-------------->
+1-Card Reader Island 8>17/09/2016 13:30:57> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\Print_Auto\AutoPrint\bin\Release\Log\Err_17-09-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Card Reader Island 8>17/09/2016 13:32:22><------------Application Start------------->
+1-Card Reader Island 8>17/09/2016 13:32:28> SERVER A-LLTLBA
+1-Card Reader Island 8>17/09/2016 13:32:28> Database connect successful.
+1-Card Reader Island 8>17/09/2016 13:32:58><------------Application Start------------->

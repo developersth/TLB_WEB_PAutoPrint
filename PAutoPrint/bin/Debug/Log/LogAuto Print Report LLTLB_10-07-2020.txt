@@ -1,0 +1,10 @@
+1-Auto Print Report LLTLB>10/07/2020 00:07:10><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Debug\Report File\
+1-Auto Print Report LLTLB>10/07/2020 00:07:12> SERVER A-LLTLB
+1-Auto Print Report LLTLB>10/07/2020 00:07:12> Database connect successful.
+1-Auto Print Report LLTLB>10/07/2020 00:08:37><------------Application Stop-------------->
+1-Auto Print Report LLTLB>10/07/2020 00:09:04><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Debug\Report File\
+1-Auto Print Report LLTLB>10/07/2020 00:09:06> SERVER A-LLTLB
+1-Auto Print Report LLTLB>10/07/2020 00:09:06> Database connect successful.
+1-Auto Print Report LLTLB>10/07/2020 00:09:10><------------Application Stop-------------->

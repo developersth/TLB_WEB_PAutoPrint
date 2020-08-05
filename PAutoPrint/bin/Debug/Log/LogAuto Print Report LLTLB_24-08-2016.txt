@@ -1,0 +1,125 @@
+1-Auto Print Report LLTLB>24/08/2016 13:17:13><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 13:17:19> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 13:17:19> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 13:20:08><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 13:20:14> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 13:20:14> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 13:23:23><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 13:23:30> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 13:23:30> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:01:55><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:02:01> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:02:01> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:04:12><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:04:19> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:04:19> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:04:39> The process cannot access the file 'F:\PROJECT\THAILUBE\SOURCE CODE\ATG\Print_Auto\AutoPrint\bin\Debug\Log\Err_24-08-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>24/08/2016 14:05:19> Invalid query [source>System.Management]
+1-Auto Print Report LLTLB>24/08/2016 14:07:09><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:07:15> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:07:15> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:07:46> Invalid query [source>System.Management]
+1-Auto Print Report LLTLB>24/08/2016 14:12:25><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:12:31> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:12:31> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:16:34><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:16:41> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:16:41> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:17:40><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:17:46> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:17:46> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:24:24><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:24:31> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:24:31> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:27:41><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:27:48> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:27:48> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:30:53><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:30:59> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:30:59> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:33:24><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:33:30> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:33:30> Database connect successful.
+1-Auto Print Report LLTLB>The specified report does not exist 
+
+1-Auto Print Report LLTLB>24/08/2016 14:36:23><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:36:29> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:36:29> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:36:37> Invalid query [source>System.Management]
+1-Auto Print Report LLTLB>24/08/2016 14:36:41> Invalid query [source>System.Management]
+1-Auto Print Report LLTLB>24/08/2016 14:39:04><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:39:10> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:39:10> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:39:27> Invalid query [source>System.Management]
+1-Auto Print Report LLTLB>24/08/2016 14:39:31> Invalid query [source>System.Management]
+1-Auto Print Report LLTLB>24/08/2016 14:40:41><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:40:47> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:40:47> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:40:55> Invalid query [source>System.Management]
+1-Auto Print Report LLTLB>24/08/2016 14:45:58><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:46:04> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:46:04> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:46:12> Invalid query [source>System.Management]
+1-Auto Print Report LLTLB>24/08/2016 14:46:16> Invalid query [source>System.Management]
+1-Auto Print Report LLTLB>24/08/2016 14:46:19> Invalid query [source>System.Management]
+1-Auto Print Report LLTLB>24/08/2016 14:46:34><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:46:40> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:46:40> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:46:48> Invalid query [source>System.Management]
+1-Auto Print Report LLTLB>24/08/2016 14:48:32><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:48:39> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:48:39> Database connect successful.
+1-Auto Print Report LLTLB>The specified report does not exist 
+
+1-Auto Print Report LLTLB>The specified report does not exist 
+
+1-Auto Print Report LLTLB>The specified report does not exist 
+
+1-Auto Print Report LLTLB>24/08/2016 14:50:12><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:50:18> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:50:18> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:54:35><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:54:41> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:54:41> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 14:55:48><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 14:55:54> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 14:55:54> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 15:04:08><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 15:04:14> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 15:04:14> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 15:06:47><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 15:06:53> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 15:06:53> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 15:13:22> The process cannot access the file 'F:\PROJECT\THAILUBE\SOURCE CODE\ATG\Print_Auto\AutoPrint\bin\Debug\Log\Err_24-08-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>24/08/2016 16:49:56><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 16:50:02> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 16:50:02> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 17:10:16> The process cannot access the file 'F:\PROJECT\THAILUBE\SOURCE CODE\ATG\Print_Auto\AutoPrint\bin\Debug\Log\Err_24-08-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>24/08/2016 17:24:29><------------Application Stop-------------->
+1-Auto Print Report LLTLB>24/08/2016 17:33:42><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 17:33:49> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 17:33:49> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 17:34:33><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 17:35:14><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 17:35:20> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 17:35:20> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 17:44:25><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 17:44:31> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 17:44:31> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 17:48:39><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 17:48:45> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 17:48:45> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 17:50:09> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 17:50:09> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 17:50:34> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 17:50:34> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 17:51:04> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 17:51:04> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 17:51:19> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 17:51:19> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 17:51:50><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 17:51:56> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 17:51:56> Database connect successful.
+1-Auto Print Report LLTLB>24/08/2016 17:53:45><------------Application Start------------->
+1-Auto Print Report LLTLB>24/08/2016 17:53:52> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>24/08/2016 17:53:52> Database connect successful.

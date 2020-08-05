@@ -1,0 +1,95 @@
+1-Auto Print Report LLTLB>18/08/2016 14:59:53><------------Application Start------------->
+1-Auto Print Report LLTLB>18/08/2016 14:59:59> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>18/08/2016 14:59:59> Database connect successful.
+1-Auto Print Report LLTLB>18/08/2016 15:01:03><------------Application Start------------->
+1-Auto Print Report LLTLB>18/08/2016 15:01:09> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>18/08/2016 15:01:09> Database connect successful.
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176010
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176010
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176011
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176011
+1-Auto Print Report LLTLB>Print Report Loading NO 510175949
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175949
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176010
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176010
+1-Auto Print Report LLTLB>Print Report Loading NO 510175950
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175950
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176011
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176011
+1-Auto Print Report LLTLB>Print Report Loading NO 510175951
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175951
+1-Auto Print Report LLTLB>Print Report Loading NO 510175952
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175952
+1-Auto Print Report LLTLB>18/08/2016 15:14:33><------------Application Start------------->
+1-Auto Print Report LLTLB>18/08/2016 15:14:40> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>18/08/2016 15:14:40> Database connect successful.
+1-Auto Print Report LLTLB>18/08/2016 15:17:06><------------Application Start------------->
+1-Auto Print Report LLTLB>18/08/2016 15:17:13> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>18/08/2016 15:17:13> Database connect successful.
+1-Auto Print Report LLTLB>18/08/2016 15:19:02><------------Application Start------------->
+1-Auto Print Report LLTLB>18/08/2016 15:19:08> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>18/08/2016 15:19:08> Database connect successful.
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176010
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176010
+1-Auto Print Report LLTLB>18/08/2016 15:22:37><------------Application Start------------->
+1-Auto Print Report LLTLB>18/08/2016 15:22:43> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>18/08/2016 15:22:43> Database connect successful.
+1-Auto Print Report LLTLB>Print Report Loading NO 510175950
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176010
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175950
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176010
+1-Auto Print Report LLTLB>Print Report Loading NO 510175951
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176011
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175951
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176011
+1-Auto Print Report LLTLB>18/08/2016 15:26:11><------------Application Start------------->
+1-Auto Print Report LLTLB>18/08/2016 15:26:17> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>18/08/2016 15:26:17> Database connect successful.
+1-Auto Print Report LLTLB>18/08/2016 15:26:56><------------Application Start------------->
+1-Auto Print Report LLTLB>18/08/2016 15:27:02> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>18/08/2016 15:27:02> Database connect successful.
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176010
+1-Auto Print Report LLTLB>Print Report Loading NO 510175951
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176010
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175951
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176011
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176011
+1-Auto Print Report LLTLB>18/08/2016 15:34:24><------------Application Start------------->
+1-Auto Print Report LLTLB>18/08/2016 15:34:30> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>18/08/2016 15:34:30> Database connect successful.
+1-Auto Print Report LLTLB>18/08/2016 15:39:21><------------Application Start------------->
+1-Auto Print Report LLTLB>18/08/2016 15:39:27> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>18/08/2016 15:39:27> Database connect successful.
+1-Auto Print Report LLTLB>18/08/2016 15:41:08><------------Application Start------------->
+1-Auto Print Report LLTLB>18/08/2016 15:41:14> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>18/08/2016 15:41:14> Database connect successful.
+1-Auto Print Report LLTLB>18/08/2016 15:43:30><------------Application Start------------->
+1-Auto Print Report LLTLB>18/08/2016 15:43:37> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>18/08/2016 15:43:37> Database connect successful.
+1-Auto Print Report LLTLB>Print Report Loading NO 510175952
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176011
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176011
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175952
+1-Auto Print Report LLTLB>18/08/2016 15:46:31><------------Application Start------------->
+1-Auto Print Report LLTLB>18/08/2016 15:46:38> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>18/08/2016 15:46:38> Database connect successful.
+1-Auto Print Report LLTLB>18/08/2016 16:20:27><------------Application Start------------->
+1-Auto Print Report LLTLB>18/08/2016 16:42:25><------------Application Start------------->
+1-Auto Print Report LLTLB>18/08/2016 17:24:24><------------Application Start------------->
+1-Auto Print Report LLTLB>18/08/2016 17:26:01>Object reference not set to an instance of an object.[PAutoPrintReport-InitialDatabase]
+1-Auto Print Report LLTLB>18/08/2016 17:26:01> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>18/08/2016 17:26:01> Database connect successful.
+1-Auto Print Report LLTLB>Print Report Loading NO 510175950
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176010
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176010
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175950
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176011
+1-Auto Print Report LLTLB>Print Report Loading NO 510175951
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176011
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175951
+1-Auto Print Report LLTLB>Print Report Loading NO 510175952
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175952
+1-Auto Print Report LLTLB>18/08/2016 17:44:03> The process cannot access the file 'F:\PROJECT\THAILUBE\SOURCE CODE\ATG\Print_Auto_Thread\PPLC\bin\Debug\Log\Err_18-08-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>18/08/2016 17:44:08> The process cannot access the file 'F:\PROJECT\THAILUBE\SOURCE CODE\ATG\Print_Auto_Thread\PPLC\bin\Debug\Log\Err_18-08-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>18/08/2016 17:53:06> The process cannot access the file 'F:\PROJECT\THAILUBE\SOURCE CODE\ATG\Print_Auto_Thread\PPLC\bin\Debug\Log\Err_18-08-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>18/08/2016 17:53:19> The process cannot access the file 'F:\PROJECT\THAILUBE\SOURCE CODE\ATG\Print_Auto_Thread\PPLC\bin\Debug\Log\Err_18-08-2016.txt' because it is being used by another process.[source>mscorlib]

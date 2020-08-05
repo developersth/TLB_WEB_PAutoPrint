@@ -1,0 +1,269 @@
+26/10/2016 09:04:39> [Print Loading, Load data report] Object reference not set to an instance of an object.
+26/10/2016 11:31:28> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 16304_12388_{3C7DE3A2-A23F-44CD-8951-9DA514B95F5D}.rpt:
+Unable to connect: incorrect log on parameters.
+26/10/2016 11:31:35> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 16304_12388_{725B8A6C-E1A2-440B-9B01-E00788580D71}.rpt:
+Unable to connect: incorrect log on parameters.
+26/10/2016 11:31:42> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 16304_12388_{F6F3BFC3-2BA7-440C-A193-5241FA7DC492}.rpt:
+Unable to connect: incorrect log on parameters.
+26/10/2016 11:31:49> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 16304_12388_{6456C9C4-BF1A-417A-80B0-DF4C9C7726E3}.rpt:
+Unable to connect: incorrect log on parameters.
+26/10/2016 11:32:07> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 16304_12388_{A4A41CE0-3347-47A7-8F9E-ADDE4CAAD303}.rpt:
+Unable to connect: incorrect log on parameters.
+26/10/2016 18:01:06> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:01:06> ORA-00933: SQL command not properly ended
+26/10/2016 18:01:28> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:01:28> ORA-00933: SQL command not properly ended
+26/10/2016 18:01:36> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:01:36> ORA-00933: SQL command not properly ended
+26/10/2016 18:01:38> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:01:38> ORA-00933: SQL command not properly ended
+26/10/2016 18:01:39> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:01:39> ORA-00933: SQL command not properly ended
+26/10/2016 18:01:42> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:01:42> ORA-00933: SQL command not properly ended
+26/10/2016 18:01:44> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:01:44> ORA-00933: SQL command not properly ended
+26/10/2016 18:06:51> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:06:51> ORA-00933: SQL command not properly ended
+26/10/2016 18:06:52> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:06:52> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:00> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:00> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:02> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:02> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:04> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:04> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:13> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:13> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:15> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:15> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:16> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:16> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:19> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:19> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:21> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:21> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:22> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:22> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:24> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:24> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:26> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:26> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:27> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:27> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:29> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:29> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:30> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:30> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:32> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:32> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:33> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:33> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:35> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:35> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:36> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:36> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:38> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:38> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:39> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:39> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:41> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:41> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:42> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:42> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:44> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:44> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:46> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:46> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:47> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:47> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:49> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:49> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:50> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:50> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:52> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:52> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:53> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:53> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:55> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:55> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:56> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:56> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:58> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:58> ORA-00933: SQL command not properly ended
+26/10/2016 18:07:59> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:07:59> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:01> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:01> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:02> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:02> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:04> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:04> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:06> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:06> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:07> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:07> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:09> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:09> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:10> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:10> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:12> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:12> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:13> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:13> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:15> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:15> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:16> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:16> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:18> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:18> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:19> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:19> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:21> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:21> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:22> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:22> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:24> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:24> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:26> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:26> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:27> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:27> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:29> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:29> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:30> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:30> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:32> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:32> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:33> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:33> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:35> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:35> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:36> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:36> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:38> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:38> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:39> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:39> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:41> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:41> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:42> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:42> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:44> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:44> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:46> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:46> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:47> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:47> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:49> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:49> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:50> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:50> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:52> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:52> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:53> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:53> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:55> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:55> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:56> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:56> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:58> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:58> ORA-00933: SQL command not properly ended
+26/10/2016 18:08:59> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:08:59> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:01> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:01> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:02> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:02> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:04> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:04> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:06> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:06> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:07> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:07> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:09> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:09> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:10> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:10> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:12> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:12> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:13> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:13> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:15> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:15> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:16> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:16> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:18> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:18> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:19> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:19> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:21> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:21> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:22> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:22> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:24> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:24> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:26> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:26> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:27> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:27> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:29> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:29> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:30> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:30> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:32> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:32> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:33> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:33> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:35> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:35> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:36> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:36> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:38> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:38> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:39> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:39> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:41> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:41> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:42> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:42> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:44> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:44> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:46> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:46> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:47> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:47> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:49> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:49> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:50> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:50> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:52> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:52> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:53> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:53> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:55> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:55> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:56> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:56> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:58> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:58> ORA-00933: SQL command not properly ended
+26/10/2016 18:09:59> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:09:59> ORA-00933: SQL command not properly ended
+26/10/2016 18:10:01> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:10:01> ORA-00933: SQL command not properly ended
+26/10/2016 18:10:02> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:10:02> ORA-00933: SQL command not properly ended
+26/10/2016 18:10:04> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:10:04> ORA-00933: SQL command not properly ended
+26/10/2016 18:10:06> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:10:06> ORA-00933: SQL command not properly ended
+26/10/2016 18:10:07> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_date(t.UPDATE_DATE,'dd/MM/yyyy') = to_date('26/10/2016', 'dd/MM/yyyy') where t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+26/10/2016 18:10:07> ORA-00933: SQL command not properly ended
+26/10/2016 18:17:20> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+26/10/2016 18:17:24> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+26/10/2016 18:17:28> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+26/10/2016 18:17:32> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+26/10/2016 18:17:36> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+26/10/2016 18:17:40> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+26/10/2016 18:17:43> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+26/10/2016 21:04:34> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))

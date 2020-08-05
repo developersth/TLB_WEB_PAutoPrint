@@ -1,0 +1,6 @@
+1-Auto Print Report LLTLB>12/09/2016 11:36:31><------------Application Start------------->
+1-Auto Print Report LLTLB>12/09/2016 11:36:37> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/09/2016 11:36:38> Database connect successful.
+1-Auto Print Report LLTLB>12/09/2016 11:53:56><------------Application Start------------->
+1-Auto Print Report LLTLB>12/09/2016 11:54:02> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/09/2016 11:54:02> Database connect successful.

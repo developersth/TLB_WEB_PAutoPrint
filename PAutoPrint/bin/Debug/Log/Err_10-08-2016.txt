@@ -1,0 +1,165 @@
+10/08/2016 09:56:02> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/6
+10/08/2016 09:56:02> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 09:56:02> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/7
+10/08/2016 09:56:02> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 09:56:06> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/8
+10/08/2016 09:56:06> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 09:56:06> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:9/8
+10/08/2016 09:56:06> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 09:56:06> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B14:2/0
+10/08/2016 09:56:06> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 09:56:06> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B14:2/1
+10/08/2016 09:56:06> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 09:56:13> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B14:18/8
+10/08/2016 09:56:13> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 09:57:03> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B14:2/5
+10/08/2016 09:57:03> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 09:58:17> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B14:2/6
+10/08/2016 09:58:17> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:02:29> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B14:2/5
+10/08/2016 10:02:29> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:05:18> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B14:2/5
+10/08/2016 10:05:18> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:09:12> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/6
+10/08/2016 10:09:12> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:09:19> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/7
+10/08/2016 10:09:19> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:09:19> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/8
+10/08/2016 10:09:19> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:12:18> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B14:2/5
+10/08/2016 10:12:18> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:16:05> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B14:2/5
+10/08/2016 10:16:05> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:16:23> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B14:2/5
+10/08/2016 10:16:24> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:17:08> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/6
+10/08/2016 10:17:08> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:17:09> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/7
+10/08/2016 10:17:09> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:17:12> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/8
+10/08/2016 10:17:12> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:17:12> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/9
+10/08/2016 10:17:12> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:17:12> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/10
+10/08/2016 10:17:12> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:18:43> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/6
+10/08/2016 10:18:43> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:18:44> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/7
+10/08/2016 10:18:44> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:19:00> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/8
+10/08/2016 10:19:00> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:19:02> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/9
+10/08/2016 10:19:02> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:19:06> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/10
+10/08/2016 10:19:06> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:19:06> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/11
+10/08/2016 10:19:06> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:19:06> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B3:8/12
+10/08/2016 10:19:06> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:20:03> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B14:2/5
+10/08/2016 10:20:03> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:20:37> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=1 t.update_date=sysdate where t.address_io=B14:2/5
+10/08/2016 10:20:37> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:28:46> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B14:2/5
+10/08/2016 10:28:46> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:29:21> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0 t.update_date=sysdate where t.address_io=B14:2/6
+10/08/2016 10:29:21> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:33:37> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0, t.read_date=sysdate where t.address_io=B3:8/6
+10/08/2016 10:33:37> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:33:37> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0, t.read_date=sysdate where t.address_io=B3:8/7
+10/08/2016 10:33:37> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 10:33:37> [ExecuteSQL]update steqi.PLC_AB_DATA t set  t.read_number=0, t.read_date=sysdate where t.address_io=B3:8/8
+10/08/2016 10:33:37> [ExecuteSQL]ORA-00933: สิ้นสุดคำสั่ง SQL ไม่ถูกต้อง
+10/08/2016 11:56:36> [ExecuteSQL]update steqi.PLC_AB_DATA t set , t.read_date=sysdate where t.address_io='B3:8/6'
+10/08/2016 11:56:36> [ExecuteSQL]ORA-01747: มีการระบุ  user.table.column, table.column, หรือ column ไม่ถูกต้อง
+10/08/2016 11:56:36> [ExecuteSQL]update steqi.PLC_AB_DATA t set , t.read_date=sysdate where t.address_io='B3:8/7'
+10/08/2016 11:56:36> [ExecuteSQL]ORA-01747: มีการระบุ  user.table.column, table.column, หรือ column ไม่ถูกต้อง
+10/08/2016 11:56:36> [ExecuteSQL]update steqi.PLC_AB_DATA t set , t.read_date=sysdate where t.address_io='B3:8/8'
+10/08/2016 11:56:36> [ExecuteSQL]ORA-01747: มีการระบุ  user.table.column, table.column, หรือ column ไม่ถูกต้อง
+10/08/2016 13:46:26> [ExecuteSQL]begin tas.P_UPDATE_ATG_CONNECT('1',1);end;
+10/08/2016 13:46:26> [ExecuteSQL]ORA-06550: บรรทัด 1 คอลัมน์ 7:
+PLS-00201: ต้องประกาศตัวระบุ 'TAS.P_UPDATE_ATG_CONNECT'
+ORA-06550: บรรทัด 1 คอลัมน์ 7:
+PL/SQL: Statement ignored
+10/08/2016 13:46:51> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:46:51> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:46:52> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:46:52> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:46:52> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:46:52> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:46:55> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:46:55> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:46:55> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:46:55> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:46:56> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:46:56> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:00> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:00> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:00> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:00> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:01> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:01> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:05> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:05> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:05> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:05> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:06> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:06> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:10> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:10> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:10> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:10> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:11> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:11> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:15> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:15> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:15> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:15> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:16> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:16> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:20> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:20> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:20> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:20> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:21> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:21> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:25> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:25> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:25> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:25> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:26> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:26> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:30> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:30> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:30> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:30> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 13:47:31> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+10/08/2016 13:47:31> ORA-00942: ไม่มีตารางหรือวิว
+10/08/2016 14:01:37> [ExecuteSQL]select t.config_data,t.update_date from tas.tas_config t where t.config_id=90
+10/08/2016 14:01:37> [ExecuteSQL]ORA-03113: สิ้นสุดไฟล์ในแชนเนลการติดต่อ
+ID กระบวนการ: 6728
+ID เซสชัน: 235 เลขลำดับ: 1309
+ORA-03113: สิ้นสุดไฟล์ในแชนเนลการติดต่อ
+ID กระบวนการ: 6728
+ID เซสชัน: 235 เลขลำดับ: 1309
+10/08/2016 14:01:37> [OpenDyns]select t.WRITE_NO,t.PLC_NAME,t.ADDRESS_IO,t.WRITE_NUMBER, s.DESCRIPTION from steqi.PLC_AB_WRITE t, steqi.PLC_AB_DATA s  where t.ADDRESS_IO=s.ADDRESS_IO 
+10/08/2016 14:01:37> ORA-03113: สิ้นสุดไฟล์ในแชนเนลการติดต่อ
+ID กระบวนการ: 4960
+ID เซสชัน: 216 เลขลำดับ: 3516
+10/08/2016 14:05:29> [OpenDyns]select t.WRITE_NO,t.PLC_NAME,t.ADDRESS_IO,t.WRITE_NUMBER, s.DESCRIPTION from steqi.PLC_AB_WRITE t, steqi.PLC_AB_DATA s  where t.ADDRESS_IO=s.ADDRESS_IO 
+10/08/2016 14:05:29> ORA-03113: สิ้นสุดไฟล์ในแชนเนลการติดต่อ
+ID กระบวนการ: 3764
+ID เซสชัน: 239 เลขลำดับ: 5881
+10/08/2016 14:05:30> [ExecuteSQL]select t.config_data,t.update_date from tas.tas_config t where t.config_id=90
+10/08/2016 14:05:30> [ExecuteSQL]ORA-03113: สิ้นสุดไฟล์ในแชนเนลการติดต่อ
+ID กระบวนการ: 6368
+ID เซสชัน: 212 เลขลำดับ: 3755
+ORA-03113: สิ้นสุดไฟล์ในแชนเนลการติดต่อ
+ID กระบวนการ: 6368
+ID เซสชัน: 212 เลขลำดับ: 3755
+10/08/2016 14:46:11> [ExecuteSQL]update steqi.PLC_AB_DATA t set , t.read_date=sysdate where t.address_io='B3:8/6'
+10/08/2016 14:46:11> [ExecuteSQL]ORA-01747: มีการระบุ  user.table.column, table.column, หรือ column ไม่ถูกต้อง
+10/08/2016 14:46:11> [ExecuteSQL]update steqi.PLC_AB_DATA t set , t.read_date=sysdate where t.address_io='B3:8/7'
+10/08/2016 14:46:11> [ExecuteSQL]ORA-01747: มีการระบุ  user.table.column, table.column, หรือ column ไม่ถูกต้อง
+10/08/2016 14:46:11> [ExecuteSQL]update steqi.PLC_AB_DATA t set , t.read_date=sysdate where t.address_io='B3:8/8'
+10/08/2016 14:46:11> [ExecuteSQL]ORA-01747: มีการระบุ  user.table.column, table.column, หรือ column ไม่ถูกต้อง

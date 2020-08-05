@@ -1,0 +1,726 @@
+1-Auto Print Report LLTLB>26/10/2016 07:52:49><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 07:52:56> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 07:52:56> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 07:53:00> Printer report Load No.=510224650
+1-Auto Print Report LLTLB>26/10/2016 07:55:21> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 07:56:25> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176121
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176121
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224650
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224545
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224545
+1-Auto Print Report LLTLB>26/10/2016 07:57:37> Printer report Load No.=510224654
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224546
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224546
+1-Auto Print Report LLTLB>26/10/2016 08:00:03> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224547
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224547
+1-Auto Print Report LLTLB>26/10/2016 08:00:25> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224654
+1-Auto Print Report LLTLB>26/10/2016 08:01:09> Printer report Load No.=510224657
+1-Auto Print Report LLTLB>26/10/2016 08:01:26> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:01:33> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224657
+1-Auto Print Report LLTLB>26/10/2016 08:01:39> Printer report Load No.=510224658
+1-Auto Print Report LLTLB>26/10/2016 08:01:46> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:01:53> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224658
+1-Auto Print Report LLTLB>26/10/2016 08:02:00> Printer report Load No.=510224659
+1-Auto Print Report LLTLB>26/10/2016 08:02:07> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:02:13> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224659
+1-Auto Print Report LLTLB>26/10/2016 08:02:19> Printer report Load No.=510224660
+1-Auto Print Report LLTLB>26/10/2016 08:02:26> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:02:37> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224660
+1-Auto Print Report LLTLB>26/10/2016 08:02:44> Printer report Load No.=510224662
+1-Auto Print Report LLTLB>26/10/2016 08:03:01> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:05:25> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224688
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224662
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224688
+1-Auto Print Report LLTLB>26/10/2016 08:05:32> Printer report Load No.=510224663
+1-Auto Print Report LLTLB>26/10/2016 08:05:48> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:05:58> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224663
+1-Auto Print Report LLTLB>26/10/2016 08:06:04> Printer report Load No.=510224664
+1-Auto Print Report LLTLB>26/10/2016 08:06:11> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:06:17> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224664
+1-Auto Print Report LLTLB>26/10/2016 08:06:23> Printer report Load No.=510224665
+1-Auto Print Report LLTLB>26/10/2016 08:06:30> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:06:37> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224665
+1-Auto Print Report LLTLB>26/10/2016 08:06:43> Printer report Load No.=510224666
+1-Auto Print Report LLTLB>26/10/2016 08:06:50> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:06:56> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224689
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224666
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224689
+1-Auto Print Report LLTLB>26/10/2016 08:07:02> Printer report Load No.=510224668
+1-Auto Print Report LLTLB>26/10/2016 08:07:10> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:07:19> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224668
+1-Auto Print Report LLTLB>26/10/2016 08:07:26> Printer report Load No.=510224669
+1-Auto Print Report LLTLB>26/10/2016 08:07:32> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:07:42> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224669
+1-Auto Print Report LLTLB>26/10/2016 08:07:48> Printer report Load No.=510224670
+1-Auto Print Report LLTLB>26/10/2016 08:07:55> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:08:01> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224670
+1-Auto Print Report LLTLB>26/10/2016 08:08:08> Printer report Load No.=510224671
+1-Auto Print Report LLTLB>26/10/2016 08:08:14> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:08:22> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224671
+1-Auto Print Report LLTLB>26/10/2016 08:08:28> Printer report Load No.=510224672
+1-Auto Print Report LLTLB>26/10/2016 08:08:35> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:08:38> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224672
+1-Auto Print Report LLTLB>26/10/2016 08:08:45> Printer report Load No.=510224673
+1-Auto Print Report LLTLB>26/10/2016 08:08:52> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:09:02> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224673
+1-Auto Print Report LLTLB>26/10/2016 08:09:09> Printer report Load No.=510224674
+1-Auto Print Report LLTLB>26/10/2016 08:52:32><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 08:52:38> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 08:52:38> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 08:52:43> Printer report Load No.=510224674
+1-Auto Print Report LLTLB>26/10/2016 08:52:59> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:53:06> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224674
+1-Auto Print Report LLTLB>26/10/2016 08:53:12> Printer report Load No.=510224675
+1-Auto Print Report LLTLB>26/10/2016 08:53:19> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:53:27> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224675
+1-Auto Print Report LLTLB>26/10/2016 08:53:33> Printer report Load No.=510224676
+1-Auto Print Report LLTLB>26/10/2016 08:53:40> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 08:53:47> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224676
+1-Auto Print Report LLTLB>26/10/2016 08:53:53> Printer report Load No.=510224677
+1-Auto Print Report LLTLB>26/10/2016 08:54:00> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:01:55> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224677
+1-Auto Print Report LLTLB>26/10/2016 09:02:02> Printer report Load No.=510224679
+1-Auto Print Report LLTLB>26/10/2016 09:02:08> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:02:12> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224679
+1-Auto Print Report LLTLB>26/10/2016 09:02:19> Printer report Load No.=510224678
+1-Auto Print Report LLTLB>26/10/2016 09:02:26> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:02:29> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224678
+1-Auto Print Report LLTLB>26/10/2016 09:02:35> Printer report Load No.=510224680
+1-Auto Print Report LLTLB>26/10/2016 09:02:42> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:03:57> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224680
+1-Auto Print Report LLTLB>26/10/2016 09:04:04> Printer report Load No.=510224681
+1-Auto Print Report LLTLB>26/10/2016 09:04:22> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:04:26> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224681
+1-Auto Print Report LLTLB>26/10/2016 09:04:32> Printer report Load No.=510224686
+1-Auto Print Report LLTLB>26/10/2016 09:04:35><------------Application Stop-------------->
+1-Auto Print Report LLTLB>26/10/2016 09:14:34><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 09:14:40> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 09:14:40> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 09:14:44> Printer report Load No.=510224682
+1-Auto Print Report LLTLB>26/10/2016 09:15:01> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:15:06> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224682
+1-Auto Print Report LLTLB>26/10/2016 09:15:13> Printer report Load No.=510224686
+1-Auto Print Report LLTLB>26/10/2016 09:15:19> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:15:24> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:25:21><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 09:25:27> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 09:25:27> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 09:25:31> Printer report Load No.=510224684
+1-Auto Print Report LLTLB>26/10/2016 09:25:49> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:25:55> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224684
+1-Auto Print Report LLTLB>26/10/2016 09:26:02> Printer report Load No.=510224686
+1-Auto Print Report LLTLB>26/10/2016 09:26:08> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:31:04><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 09:31:11> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 09:31:11> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 09:31:15> Printer report Load No.=510224683
+1-Auto Print Report LLTLB>26/10/2016 09:31:22> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:31:24> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224683
+1-Auto Print Report LLTLB>26/10/2016 09:31:31> Printer report Load No.=510224685
+1-Auto Print Report LLTLB>26/10/2016 09:31:37> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:31:39> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224685
+1-Auto Print Report LLTLB>26/10/2016 09:31:45> Printer report Load No.=510224686
+1-Auto Print Report LLTLB>26/10/2016 09:31:52> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:31:53> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224686
+1-Auto Print Report LLTLB>26/10/2016 09:32:00> Printer report Load No.=510224687
+1-Auto Print Report LLTLB>26/10/2016 09:32:17> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:32:18> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224687
+1-Auto Print Report LLTLB>26/10/2016 09:32:25> Printer report Load No.=510224688
+1-Auto Print Report LLTLB>26/10/2016 09:32:32> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:32:33> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224688
+1-Auto Print Report LLTLB>26/10/2016 09:32:39> Printer report Load No.=510224689
+1-Auto Print Report LLTLB>26/10/2016 09:32:46> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:32:47> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224689
+1-Auto Print Report LLTLB>26/10/2016 09:32:54> Printer report Load No.=510224690
+1-Auto Print Report LLTLB>26/10/2016 09:33:01> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:33:02> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224690
+1-Auto Print Report LLTLB>26/10/2016 09:33:08> Printer report Load No.=510224691
+1-Auto Print Report LLTLB>26/10/2016 09:33:15> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:33:16> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224691
+1-Auto Print Report LLTLB>26/10/2016 09:34:35><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 09:34:41> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 09:34:41> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 09:34:46> Printer report Load No.=510224694
+1-Auto Print Report LLTLB>26/10/2016 09:35:03> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 09:35:05> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224694
+1-Auto Print Report LLTLB>26/10/2016 09:45:01><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 09:45:07> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 09:45:07> Database connect successful.
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224708
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224708
+1-Auto Print Report LLTLB>26/10/2016 09:49:39><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 09:49:46> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 09:49:46> Database connect successful.
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224709
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224709
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224710
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224710
+1-Auto Print Report LLTLB>26/10/2016 10:05:18><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 10:05:25> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 10:05:25> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 10:05:29> Printer report Load No.=510224697
+1-Auto Print Report LLTLB>26/10/2016 10:06:11><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 10:06:18> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 10:06:18> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 10:06:22> Printer report Load No.=510224697
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224713
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224713
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224714
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224714
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224715
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224715
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224716
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224716
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224717
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224717
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224718
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224718
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224719
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224719
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224720
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224720
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224721
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224721
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224722
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224722
+1-Auto Print Report LLTLB>26/10/2016 11:23:13><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 11:23:20> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 11:23:20> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 11:23:24> Printer report Load No.=510224693
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224727
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224727
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224728
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224728
+1-Auto Print Report LLTLB>26/10/2016 11:30:59><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 11:31:05> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 11:31:05> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 11:31:10> Printer report Load No.=510224693
+1-Auto Print Report LLTLB>26/10/2016 11:31:26> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:31:34> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:31:41> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:31:49> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:32:07> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:32:24> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:33:37><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 11:33:43> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 11:33:43> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 11:33:47> Printer report Load No.=510224693
+1-Auto Print Report LLTLB>26/10/2016 11:34:00> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:34:09> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224693
+1-Auto Print Report LLTLB>26/10/2016 11:34:23> Printer report Load No.=510224696
+1-Auto Print Report LLTLB>26/10/2016 11:34:35> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:34:36> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224696
+1-Auto Print Report LLTLB>26/10/2016 11:34:43> Printer report Load No.=510224697
+1-Auto Print Report LLTLB>26/10/2016 11:34:50> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:34:51> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224697
+1-Auto Print Report LLTLB>26/10/2016 11:34:58> Printer report Load No.=510224698
+1-Auto Print Report LLTLB>26/10/2016 11:35:05> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:35:06> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224698
+1-Auto Print Report LLTLB>26/10/2016 11:35:13> Printer report Load No.=510224699
+1-Auto Print Report LLTLB>26/10/2016 11:35:19> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:35:21> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224699
+1-Auto Print Report LLTLB>26/10/2016 11:35:27> Printer report Load No.=510224700
+1-Auto Print Report LLTLB>26/10/2016 11:35:34> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:35:35> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224700
+1-Auto Print Report LLTLB>26/10/2016 11:35:42> Printer report Load No.=510224701
+1-Auto Print Report LLTLB>26/10/2016 11:35:48> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:35:50> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224701
+1-Auto Print Report LLTLB>26/10/2016 11:35:56> Printer report Load No.=510224702
+1-Auto Print Report LLTLB>26/10/2016 11:36:13> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:36:14> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224702
+1-Auto Print Report LLTLB>26/10/2016 11:36:21> Printer report Load No.=510224703
+1-Auto Print Report LLTLB>26/10/2016 11:36:27> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:36:29> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224703
+1-Auto Print Report LLTLB>26/10/2016 11:36:35> Printer report Load No.=510224704
+1-Auto Print Report LLTLB>26/10/2016 11:36:42> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:36:43> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224704
+1-Auto Print Report LLTLB>26/10/2016 11:36:50> Printer report Load No.=510224705
+1-Auto Print Report LLTLB>26/10/2016 11:36:56> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:36:58> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224705
+1-Auto Print Report LLTLB>26/10/2016 11:37:04> Printer report Load No.=510224706
+1-Auto Print Report LLTLB>26/10/2016 11:37:11> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:37:12> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224706
+1-Auto Print Report LLTLB>26/10/2016 11:37:19> Printer report Load No.=510224707
+1-Auto Print Report LLTLB>26/10/2016 11:37:25> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:37:27> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224707
+1-Auto Print Report LLTLB>26/10/2016 11:37:33> Printer report Load No.=510224710
+1-Auto Print Report LLTLB>26/10/2016 11:37:40> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:37:41> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224710
+1-Auto Print Report LLTLB>26/10/2016 11:37:48> Printer report Load No.=510224712
+1-Auto Print Report LLTLB>26/10/2016 11:37:55> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:37:56> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224712
+1-Auto Print Report LLTLB>26/10/2016 11:38:02> Printer report Load No.=510224713
+1-Auto Print Report LLTLB>26/10/2016 11:38:20> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:38:21> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224713
+1-Auto Print Report LLTLB>26/10/2016 11:38:27> Printer report Load No.=510224715
+1-Auto Print Report LLTLB>26/10/2016 11:38:34> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 11:38:35> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224715
+1-Auto Print Report LLTLB>26/10/2016 12:49:41><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 12:49:47> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 12:49:47> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 12:49:51> Printer report Load No.=510224717
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224733
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224733
+1-Auto Print Report LLTLB>26/10/2016 12:52:59> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 12:53:09> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 12:55:51> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 12:56:00> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224717
+1-Auto Print Report LLTLB>26/10/2016 13:12:03> Printer report Load No.=510224718
+1-Auto Print Report LLTLB>26/10/2016 13:19:51> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 13:19:57> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224718
+1-Auto Print Report LLTLB>26/10/2016 13:20:04> Printer report Load No.=510224719
+1-Auto Print Report LLTLB>26/10/2016 13:39:23> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 13:40:55> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224719
+1-Auto Print Report LLTLB>26/10/2016 13:41:01> Printer report Load No.=510224720
+1-Auto Print Report LLTLB>26/10/2016 13:42:54> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 13:43:01> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224720
+1-Auto Print Report LLTLB>26/10/2016 13:43:11> Printer report Load No.=510224721
+1-Auto Print Report LLTLB>26/10/2016 13:43:25> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 13:43:31> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224721
+1-Auto Print Report LLTLB>26/10/2016 13:49:01> Printer report Load No.=510224722
+1-Auto Print Report LLTLB>26/10/2016 13:49:09> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 13:49:12> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224722
+1-Auto Print Report LLTLB>26/10/2016 13:49:18> Printer report Load No.=510224723
+1-Auto Print Report LLTLB>26/10/2016 13:52:03> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 13:52:07> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224723
+1-Auto Print Report LLTLB>26/10/2016 13:52:14> Printer report Load No.=510224724
+1-Auto Print Report LLTLB>26/10/2016 13:53:11> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 13:54:46> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224724
+1-Auto Print Report LLTLB>26/10/2016 13:54:53> Printer report Load No.=510224725
+1-Auto Print Report LLTLB>26/10/2016 13:55:13> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 13:55:17> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224725
+1-Auto Print Report LLTLB>26/10/2016 13:55:23> Printer report Load No.=510224728
+1-Auto Print Report LLTLB>26/10/2016 13:59:26> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224747
+1-Auto Print Report LLTLB>26/10/2016 14:02:54> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224747
+1-Auto Print Report LLTLB>26/10/2016 14:03:14><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 14:03:20> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 14:03:20> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 14:03:24> Printer report Load No.=510224728
+1-Auto Print Report LLTLB>26/10/2016 14:03:44> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 14:11:26><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 14:11:33> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 14:11:33> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 14:11:37> Printer report Load No.=510224728
+1-Auto Print Report LLTLB>26/10/2016 14:12:01> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224750
+1-Auto Print Report LLTLB>26/10/2016 14:13:34> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224750
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224728
+1-Auto Print Report LLTLB>26/10/2016 14:13:40> Printer report Load No.=510224729
+1-Auto Print Report LLTLB>26/10/2016 14:13:50> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224752
+1-Auto Print Report LLTLB>26/10/2016 14:15:43> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224752
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224729
+1-Auto Print Report LLTLB>26/10/2016 14:15:49> Printer report Load No.=510224732
+1-Auto Print Report LLTLB>26/10/2016 14:16:02> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224753
+1-Auto Print Report LLTLB>26/10/2016 14:22:46><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 14:22:52> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 14:22:52> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 14:22:56> Printer report Load No.=510224732
+1-Auto Print Report LLTLB>26/10/2016 14:23:14> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 14:26:01><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 14:26:07> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 14:26:07> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 14:26:11> Printer report Load No.=510224732
+1-Auto Print Report LLTLB>26/10/2016 14:26:27> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 14:26:35> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224732
+1-Auto Print Report LLTLB>26/10/2016 14:26:42> Printer report Load No.=510224733
+1-Auto Print Report LLTLB>26/10/2016 14:26:49> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 14:26:55> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224733
+1-Auto Print Report LLTLB>26/10/2016 14:27:02> Printer report Load No.=510224734
+1-Auto Print Report LLTLB>26/10/2016 14:27:09> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 14:27:11> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224734
+1-Auto Print Report LLTLB>26/10/2016 14:27:17> Printer report Load No.=510224736
+1-Auto Print Report LLTLB>26/10/2016 14:27:24> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 14:27:26> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224736
+1-Auto Print Report LLTLB>26/10/2016 14:27:32> Printer report Load No.=510224737
+1-Auto Print Report LLTLB>26/10/2016 14:27:50> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 14:27:51> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224737
+1-Auto Print Report LLTLB>26/10/2016 14:27:58> Printer report Load No.=510224738
+1-Auto Print Report LLTLB>26/10/2016 14:28:05> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 14:28:06> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224738
+1-Auto Print Report LLTLB>26/10/2016 14:28:13> Printer report Load No.=510224740
+1-Auto Print Report LLTLB>26/10/2016 14:28:20> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 14:28:21> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224740
+1-Auto Print Report LLTLB>26/10/2016 14:28:28> Printer report Load No.=510224741
+1-Auto Print Report LLTLB>26/10/2016 14:28:34> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 14:28:36> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224741
+1-Auto Print Report LLTLB>26/10/2016 14:28:43> Printer report Load No.=510224742
+1-Auto Print Report LLTLB>26/10/2016 14:28:49> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 14:28:51> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224742
+1-Auto Print Report LLTLB>26/10/2016 14:28:58> Printer report Load No.=510224745
+1-Auto Print Report LLTLB>26/10/2016 14:29:14> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 14:29:16> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224745
+1-Auto Print Report LLTLB>26/10/2016 14:29:23> Printer report Load No.=510224746
+1-Auto Print Report LLTLB>26/10/2016 14:29:29> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 14:29:31> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224746
+1-Auto Print Report LLTLB>26/10/2016 14:30:33><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 14:30:40> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 14:30:40> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 14:34:38><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 14:34:44> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 14:34:44> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 14:38:17> Printer report Load No.=510224748
+1-Auto Print Report LLTLB>26/10/2016 14:38:37> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 14:38:40> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224748
+1-Auto Print Report LLTLB>26/10/2016 17:51:26><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 17:51:32> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 17:51:32> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 17:51:36> Printer report Load No.=510224731
+1-Auto Print Report LLTLB>26/10/2016 17:51:53> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 17:52:04> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224774
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224774
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224731
+1-Auto Print Report LLTLB>26/10/2016 17:52:10> Printer report Load No.=510224744
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224791
+1-Auto Print Report LLTLB>26/10/2016 17:52:17> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224791
+1-Auto Print Report LLTLB>26/10/2016 17:52:18> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224744
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224792
+1-Auto Print Report LLTLB>26/10/2016 17:52:25> Printer report Load No.=510224753
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224792
+1-Auto Print Report LLTLB>26/10/2016 17:52:31> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 17:52:33> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224753
+1-Auto Print Report LLTLB>26/10/2016 17:52:40> Printer report Load No.=510224755
+1-Auto Print Report LLTLB>26/10/2016 17:52:46> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 17:52:48> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224755
+1-Auto Print Report LLTLB>26/10/2016 17:52:55> Printer report Load No.=510224757
+1-Auto Print Report LLTLB>26/10/2016 17:53:07> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224793
+1-Auto Print Report LLTLB>26/10/2016 17:53:10> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224793
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224757
+1-Auto Print Report LLTLB>26/10/2016 17:53:17> Printer report Load No.=510224758
+1-Auto Print Report LLTLB>26/10/2016 17:53:23> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 17:53:26> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224758
+1-Auto Print Report LLTLB>26/10/2016 17:53:32> Printer report Load No.=510224759
+1-Auto Print Report LLTLB>26/10/2016 17:53:48> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 17:53:50> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224759
+1-Auto Print Report LLTLB>26/10/2016 17:53:56> Printer report Load No.=510224765
+1-Auto Print Report LLTLB>26/10/2016 17:54:03> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224794
+1-Auto Print Report LLTLB>26/10/2016 17:54:05> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224794
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224765
+1-Auto Print Report LLTLB>26/10/2016 17:54:11> Printer report Load No.=510224771
+1-Auto Print Report LLTLB>26/10/2016 17:54:18> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 17:54:20> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224771
+1-Auto Print Report LLTLB>26/10/2016 17:54:26> Printer report Load No.=510224772
+1-Auto Print Report LLTLB>26/10/2016 17:54:33> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 17:54:35> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224772
+1-Auto Print Report LLTLB>26/10/2016 17:54:41> Printer report Load No.=510224773
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224795
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224795
+1-Auto Print Report LLTLB>26/10/2016 17:54:48> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 17:54:50> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224773
+1-Auto Print Report LLTLB>26/10/2016 17:54:56> Printer report Load No.=510224775
+1-Auto Print Report LLTLB>26/10/2016 17:55:03> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 17:55:05> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224775
+1-Auto Print Report LLTLB>26/10/2016 17:55:12><------------Application Stop-------------->
+1-Auto Print Report LLTLB>26/10/2016 17:55:12> Printer report Load No.=510224776
+1-Auto Print Report LLTLB>26/10/2016 18:00:16><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 18:00:23> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 18:00:23> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 18:00:27> Printer report Load No.=510224776
+1-Auto Print Report LLTLB>26/10/2016 18:01:28> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 18:01:37> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224776
+1-Auto Print Report LLTLB>26/10/2016 18:01:41> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 18:01:41> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 18:01:43> Printer report Load No.=510224776
+1-Auto Print Report LLTLB>26/10/2016 18:06:55> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 18:07:00> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 18:07:08> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 18:07:13> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 18:07:13> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 18:07:15> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 18:07:18> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 18:07:18> Database connect successful.
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224776
+1-Auto Print Report LLTLB>26/10/2016 18:10:35><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 18:10:41> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 18:10:41> Database connect successful.
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224798
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224798
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510224799
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510224799
+1-Auto Print Report LLTLB>26/10/2016 18:12:12> Printer report Load No.=510224769
+1-Auto Print Report LLTLB>26/10/2016 18:12:25> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 18:12:27> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224769
+1-Auto Print Report LLTLB>26/10/2016 18:17:20> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>26/10/2016 18:17:24> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>26/10/2016 18:17:28> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>26/10/2016 18:17:32> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>26/10/2016 18:17:36> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>26/10/2016 18:17:40> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>26/10/2016 18:17:43> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>26/10/2016 18:17:45><------------Application Stop-------------->
+1-Auto Print Report LLTLB>26/10/2016 18:18:58><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 18:19:04> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 18:19:04> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 18:19:08> Printer report Load No.=510224761
+1-Auto Print Report LLTLB>26/10/2016 18:20:34> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 18:24:38><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 18:24:45> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 18:24:45> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 18:24:49> Printer report Load No.=510224761
+1-Auto Print Report LLTLB>26/10/2016 18:25:17> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 18:26:21><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 18:26:27> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 18:26:27> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 18:27:56><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 18:28:04> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 18:28:04> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 18:35:01><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 18:35:08> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 18:35:08> Database connect successful.
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Product.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Company.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Mass By Cust.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT SummaryVolumeLoadReportByCompany.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT SummaryMassLoadReportByCompany REPORT END OF DAY 
+1-Auto Print Report LLTLB>ลบข้อมูล report_printer_job : 26/10/2016 18:37:53
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Product.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Company.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Mass By Cust.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT SummaryVolumeLoadReportByCompany.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT SummaryMassLoadReportByCompany REPORT END OF DAY 
+1-Auto Print Report LLTLB>ลบข้อมูล report_printer_job : 26/10/2016 18:38:56
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Product.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Company.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Mass By Cust.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT SummaryVolumeLoadReportByCompany.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT SummaryMassLoadReportByCompany REPORT END OF DAY 
+1-Auto Print Report LLTLB>ลบข้อมูล report_printer_job : 26/10/2016 18:40:12
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Product.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Company.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Mass By Cust.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT SummaryVolumeLoadReportByCompany.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT SummaryMassLoadReportByCompany REPORT END OF DAY 
+1-Auto Print Report LLTLB>ลบข้อมูล report_printer_job : 26/10/2016 18:40:42
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Product.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Company.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Mass By Cust.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>26/10/2016 18:42:11><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 18:42:18> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 18:42:18> Database connect successful.
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Product.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Company.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Mass By Cust.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT SummaryVolumeLoadReportByCompany.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT SummaryMassLoadReportByCompany REPORT END OF DAY 
+1-Auto Print Report LLTLB>ลบข้อมูล report_printer_job : 26/10/2016 18:43:10
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Product.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Company.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Mass By Cust.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT SummaryVolumeLoadReportByCompany.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT SummaryMassLoadReportByCompany REPORT END OF DAY 
+1-Auto Print Report LLTLB>ลบข้อมูล report_printer_job : 26/10/2016 18:44:33
+1-Auto Print Report LLTLB>26/10/2016 18:46:20><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 18:46:26> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 18:46:26> Database connect successful.
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Product.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Company.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Mass By Cust.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT SummaryVolumeLoadReportByCompany.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT SummaryMassLoadReportByCompany REPORT END OF DAY 
+1-Auto Print Report LLTLB>ลบข้อมูล report_printer_job : 26/10/2016 18:47:48
+1-Auto Print Report LLTLB>26/10/2016 19:33:29><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 19:33:35> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 19:33:35> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 19:45:54> Printer report Load No.=510224790
+1-Auto Print Report LLTLB>26/10/2016 19:46:15> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 19:46:17> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224790
+1-Auto Print Report LLTLB>26/10/2016 19:53:12><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 19:53:19> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 19:53:19> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 20:09:06><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 20:09:12> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 20:09:12> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 20:10:09> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 20:10:12> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224763
+1-Auto Print Report LLTLB>26/10/2016 20:25:19><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 20:25:26> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 20:25:26> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 20:25:50> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 20:25:53> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224799
+1-Auto Print Report LLTLB>26/10/2016 20:34:57><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 20:35:04> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 20:35:04> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 20:40:35><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 20:40:41> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 20:40:41> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 20:44:10><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 20:44:12><------------Application Stop-------------->
+1-Auto Print Report LLTLB>26/10/2016 21:00:56><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 21:01:03> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 21:01:03> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 21:02:15><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 21:02:22> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 21:02:22> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 21:03:30><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 21:03:37> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 21:03:37> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 21:06:24><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 21:06:31> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 21:06:31> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 21:06:57> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 21:07:00> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224805
+1-Auto Print Report LLTLB>26/10/2016 21:07:13> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 21:07:17><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 21:07:24> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 21:07:24> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 21:07:50> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 21:07:52> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224805
+1-Auto Print Report LLTLB>26/10/2016 21:08:06> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 21:08:07> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224805
+1-Auto Print Report LLTLB>26/10/2016 21:08:34> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 21:14:34><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 21:14:40> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 21:14:40> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 21:17:38><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>26/10/2016 21:17:44> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>26/10/2016 21:17:44> Database connect successful.
+1-Auto Print Report LLTLB>26/10/2016 21:18:10> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>26/10/2016 21:18:13> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224762

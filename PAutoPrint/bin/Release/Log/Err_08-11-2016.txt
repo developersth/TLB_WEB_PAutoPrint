@@ -1,0 +1,3 @@
+08/11/2016 08:25:09> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+08/11/2016 08:25:10> [Print Weight, Get config report] Object reference not set to an instance of an object.
+08/11/2016 08:25:10> [Print Instruction, Get config report] Object reference not set to an instance of an object.

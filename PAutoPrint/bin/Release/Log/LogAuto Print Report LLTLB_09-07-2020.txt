@@ -1,0 +1,3 @@
+1-Auto Print Report LLTLB>09/07/2020 13:54:38><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>09/07/2020 13:54:59><------------Application Stop-------------->

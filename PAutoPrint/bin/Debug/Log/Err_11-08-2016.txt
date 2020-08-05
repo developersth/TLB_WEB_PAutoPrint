@@ -1,0 +1,12 @@
+11/08/2016 10:40:02> [ExecuteSQL]update steqi.PLC_AB_DATA t set , t.read_date=sysdate where t.address_io='B3:8/6'
+11/08/2016 10:40:02> [ExecuteSQL]ORA-01747: มีการระบุ  user.table.column, table.column, หรือ column ไม่ถูกต้อง
+11/08/2016 10:40:02> [ExecuteSQL]update steqi.PLC_AB_DATA t set , t.read_date=sysdate where t.address_io='B3:8/7'
+11/08/2016 10:40:02> [ExecuteSQL]ORA-01747: มีการระบุ  user.table.column, table.column, หรือ column ไม่ถูกต้อง
+11/08/2016 10:40:02> [ExecuteSQL]update steqi.PLC_AB_DATA t set , t.read_date=sysdate where t.address_io='B3:8/8'
+11/08/2016 10:40:02> [ExecuteSQL]ORA-01747: มีการระบุ  user.table.column, table.column, หรือ column ไม่ถูกต้อง
+11/08/2016 13:17:26> [ExecuteSQL]update steqi.PLC_AB_DATA t set , t.read_date=sysdate where t.address_io='B3:8/6'
+11/08/2016 13:17:26> [ExecuteSQL]ORA-01747: มีการระบุ  user.table.column, table.column, หรือ column ไม่ถูกต้อง
+11/08/2016 13:17:26> [ExecuteSQL]update steqi.PLC_AB_DATA t set , t.read_date=sysdate where t.address_io='B3:8/7'
+11/08/2016 13:17:26> [ExecuteSQL]ORA-01747: มีการระบุ  user.table.column, table.column, หรือ column ไม่ถูกต้อง
+11/08/2016 13:17:26> [ExecuteSQL]update steqi.PLC_AB_DATA t set , t.read_date=sysdate where t.address_io='B3:8/8'
+11/08/2016 13:17:26> [ExecuteSQL]ORA-01747: มีการระบุ  user.table.column, table.column, หรือ column ไม่ถูกต้อง

@@ -1,0 +1,98 @@
+30/07/2016 08:37:30> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:30> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:30> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:30> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:30> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:31> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:34> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:34> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:34> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:34> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:35> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:35> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:39> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:39> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:39> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:39> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:39> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:39> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:44> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:44> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:44> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:44> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:44> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:44> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:49> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:49> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:49> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:49> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:49> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:49> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:54> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:54> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:54> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:54> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:55> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:55> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:59> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:59> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:37:59> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:37:59> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:00> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:00> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:04> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:04> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:04> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:04> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:04> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:04> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:09> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:09> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:09> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:09> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:10> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:10> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:14> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:14> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:14> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:14> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:15> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:15> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:19> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:19> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:19> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:19> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:20> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:20> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:24> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:24> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:24> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:24> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:24> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:24> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:29> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:29> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:29> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:29> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:30> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:30> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:34> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:34> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:34> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:34> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:35> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:35> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:39> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:39> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:39> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:39> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:40> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:40> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:44> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:44> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:44> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:44> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:45> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:45> ORA-00904: "T"."COMPORT_NO": invalid identifier
+30/07/2016 08:38:49> [OpenDyns]select t.plc_id,t.plc_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.plc_name || ', ' || t.comp_id || ':' || t.comport_no  as Description from tas.VIEW_OPC_CONFIG_INITAIL t  order by t.plc_id
+30/07/2016 08:38:49> ORA-00904: "T"."COMPORT_NO": invalid identifier

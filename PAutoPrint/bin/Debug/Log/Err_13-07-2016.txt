@@ -1,0 +1,25 @@
+13/07/2016 17:59:18> System.IO.IOException: The port 'COM21' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at PATG.Comport.OpenPort() in D:\My Code\TLB Upgrading\PATG_2010\PATG\Class\Comport.cs:line 424
+13/07/2016 17:59:27> System.IO.IOException: The port 'COM21' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at PATG.Comport.OpenPort() in D:\My Code\TLB Upgrading\PATG_2010\PATG\Class\Comport.cs:line 424
+13/07/2016 17:59:35> System.IO.IOException: The port 'COM21' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at PATG.Comport.OpenPort() in D:\My Code\TLB Upgrading\PATG_2010\PATG\Class\Comport.cs:line 424
+13/07/2016 17:59:58> System.IO.IOException: The port 'COM21' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at PATG.Comport.OpenPort() in D:\My Code\TLB Upgrading\PATG_2010\PATG\Class\Comport.cs:line 424
+13/07/2016 18:00:52> System.IO.IOException: The port 'COM21' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at PATG.Comport.OpenPort() in D:\My Code\TLB Upgrading\PATG_2010\PATG\Class\Comport.cs:line 424

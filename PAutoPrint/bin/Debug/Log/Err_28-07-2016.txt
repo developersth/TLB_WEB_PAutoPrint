@@ -1,0 +1,7 @@
+28/07/2016 19:13:41> [ExecuteSQL]select t.config_data,t.update_date from tas.tas_config t where t.config_id=90
+28/07/2016 19:13:41> [ExecuteSQL]ORA-03135: connection lost contact
+Process ID: 7740
+Session ID: 73 Serial number: 7320
+ORA-03135: connection lost contact
+Process ID: 7740
+Session ID: 73 Serial number: 7320

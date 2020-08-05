@@ -1,0 +1,54 @@
+1-Auto Print Report LLTLB>25/10/2016 20:29:24><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Debug\
+1-Auto Print Report LLTLB>25/10/2016 20:29:31>Object reference not set to an instance of an object.[PAutoPrintReport-InitialDatabase]
+1-Auto Print Report LLTLB>25/10/2016 20:29:31> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 20:29:31> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 20:30:12> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 20:30:12> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 20:30:21> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 20:30:21> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 20:34:00> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 20:34:00> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 20:34:05> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 20:34:05> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 20:41:41> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 20:41:41> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 20:42:38> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 20:42:38> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 20:43:01><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Debug\
+1-Auto Print Report LLTLB>25/10/2016 20:43:08> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 20:43:08> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 20:43:27> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 20:43:27> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 20:43:50> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 20:43:51> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 20:44:44> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 20:44:44> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 20:46:16><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Debug\
+1-Auto Print Report LLTLB>25/10/2016 20:46:22> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 20:46:22> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 20:46:41> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 20:46:41> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 21:00:15><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Debug\Report File\
+1-Auto Print Report LLTLB>25/10/2016 21:00:22> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 21:00:22> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 21:10:31><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Debug\Report File\
+1-Auto Print Report LLTLB>25/10/2016 21:10:37> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 21:10:37> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 21:20:54><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Debug\Report File\
+1-Auto Print Report LLTLB>25/10/2016 21:21:00> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 21:21:00> Database connect successful.
+1-Auto Print Report LLTLB>Print Report Loading NO 510224618
+1-Auto Print Report LLTLB>Print Report Loading NO 510224618
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510224618
+1-Auto Print Report LLTLB>25/10/2016 23:39:34><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Debug\Report File\
+1-Auto Print Report LLTLB>25/10/2016 23:39:40> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 23:39:40> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 23:39:44> Printer report Load No.=510224629
+1-Auto Print Report LLTLB>25/10/2016 23:41:03> D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Debug\Report File\Delivery_Receipt(Auto).rpt

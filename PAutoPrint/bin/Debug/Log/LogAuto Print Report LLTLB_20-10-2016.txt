@@ -1,0 +1,33 @@
+1-Auto Print Report LLTLB>20/10/2016 15:34:23><------------Application Start------------->
+1-Auto Print Report LLTLB>20/10/2016 15:34:29> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>20/10/2016 15:34:29> Database connect successful.
+1-Auto Print Report LLTLB>Print Report Loading NO 510176088
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176090
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176090
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176088
+1-Auto Print Report LLTLB>Print Report Loading NO 510176089
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176089
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176091
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176091
+1-Auto Print Report LLTLB>Print Report Loading NO 510176091
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176091
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176092
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176092
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176093
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176093
+1-Auto Print Report LLTLB>Print Report Loading NO 510176093
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176093
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176094
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176094
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176095
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176095
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176096
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176096
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176097
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176097
+1-Auto Print Report LLTLB>Print Report Loading NO 510176095
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176095
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Product.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Company.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>ลบข้อมูล report_printer_job : 20/10/2016 20:17:50
+1-Auto Print Report LLTLB>20/10/2016 20:20:08><------------Application Stop-------------->

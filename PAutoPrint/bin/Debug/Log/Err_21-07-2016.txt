@@ -1,0 +1,12 @@
+21/07/2016 18:36:56> [OpenDyns]select t.atg_address,t.opc_channel_name,t.opc_device_name'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.scan_id=1 order by t.atg_id
+21/07/2016 18:36:56> ORA-00923: FROM keyword not found where expected
+21/07/2016 18:36:57> [OpenDyns]select 'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.scan_id=1 order by t.scan_id
+21/07/2016 18:36:57> ORA-00904: "T"."SCAN_ID": invalid identifier
+21/07/2016 18:38:32> [OpenDyns]select t.atg_address,t.opc_channel_name,t.opc_device_name'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.scan_id=1 order by t.atg_id
+21/07/2016 18:38:32> ORA-00923: FROM keyword not found where expected
+21/07/2016 18:38:32> [OpenDyns]select 'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.scan_id=1 order by t.scan_id
+21/07/2016 18:38:32> ORA-00904: "T"."SCAN_ID": invalid identifier
+21/07/2016 18:39:17> [OpenDyns]select t.atg_address,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.scan_id=1 order by t.atg_id
+21/07/2016 18:39:17> ORA-00904: "T"."SCAN_ID": invalid identifier
+21/07/2016 18:42:39> [OpenDyns]select 'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.scan_id=1 order by t.scan_id
+21/07/2016 18:42:39> ORA-00904: "T"."SCAN_ID": invalid identifier

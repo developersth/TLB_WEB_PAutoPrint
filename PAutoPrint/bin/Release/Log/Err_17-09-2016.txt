@@ -1,0 +1,2 @@
+17/09/2016 13:30:57> [Print Instruction, CheckStatusLoading] Object reference not set to an instance of an object.
+17/09/2016 13:30:59> [Print Instruction, CheckStatusLoading] Object reference not set to an instance of an object.

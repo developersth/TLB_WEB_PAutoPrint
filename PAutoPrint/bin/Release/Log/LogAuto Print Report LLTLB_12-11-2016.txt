@@ -1,0 +1,54 @@
+1-Auto Print Report LLTLB>12/11/2016 13:41:03><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>12/11/2016 13:41:09> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/11/2016 13:41:09> Database connect successful.
+1-Auto Print Report LLTLB>12/11/2016 13:41:15><------------Application Stop-------------->
+1-Auto Print Report LLTLB>12/11/2016 13:41:37><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>12/11/2016 13:41:41><------------Application Stop-------------->
+1-Auto Print Report LLTLB>12/11/2016 13:42:16><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>12/11/2016 13:42:22> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/11/2016 13:42:22> Database connect successful.
+1-Auto Print Report LLTLB>12/11/2016 13:42:28><------------Application Stop-------------->
+1-Auto Print Report LLTLB>12/11/2016 13:42:35><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>12/11/2016 13:42:41> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/11/2016 13:42:41> Database connect successful.
+1-Auto Print Report LLTLB>12/11/2016 13:42:45><------------Application Stop-------------->
+1-Auto Print Report LLTLB>12/11/2016 13:42:47>Object reference not set to an instance of an object.[PAutoPrintReport-InitialDataGrid]
+1-Auto Print Report LLTLB>12/11/2016 13:43:02><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>12/11/2016 13:43:08><------------Application Stop-------------->
+1-Auto Print Report LLTLB>12/11/2016 13:43:09> System.Threading.ThreadAbortException: Thread was being aborted.
+   at PAutoPrintReport.Database.Addlistbox(String pMsg) in e:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\Class\Database.cs:line 240
+   at PAutoPrintReport.Database.Connect() in e:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\Class\Database.cs:line 285
+1-Auto Print Report LLTLB>12/11/2016 13:56:42><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>12/11/2016 13:56:48> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/11/2016 13:56:48> Database connect successful.
+1-Auto Print Report LLTLB>12/11/2016 13:57:40><------------Application Stop-------------->
+1-Auto Print Report LLTLB>12/11/2016 14:09:08><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>12/11/2016 14:09:14> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/11/2016 14:09:14> Database connect successful.
+1-Auto Print Report LLTLB>12/11/2016 14:09:15><------------Application Stop-------------->
+1-Auto Print Report LLTLB>12/11/2016 14:13:11><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>12/11/2016 14:13:17> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/11/2016 14:13:17> Database connect successful.
+1-Auto Print Report LLTLB>12/11/2016 14:18:51><------------Application Stop-------------->
+1-Auto Print Report LLTLB>12/11/2016 14:18:59><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>12/11/2016 14:19:05> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/11/2016 14:19:05> Database connect successful.
+1-Auto Print Report LLTLB>12/11/2016 14:20:54><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>12/11/2016 14:21:44><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>12/11/2016 14:21:50> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/11/2016 14:21:50> Database connect successful.
+1-Auto Print Report LLTLB>12/11/2016 14:22:19><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>12/11/2016 14:22:25> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/11/2016 14:22:25> Database connect successful.

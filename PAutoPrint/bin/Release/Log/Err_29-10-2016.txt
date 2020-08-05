@@ -1,0 +1,759 @@
+29/10/2016 14:27:55> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{6021C60E-7DA3-4664-9961-4B75A5D73E7F}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:28:02> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{B25791C1-B00C-4427-B6F5-D7A1261A7A0E}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:28:09> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{F62F7647-E2F4-408C-8F71-97F85DFF35F9}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:28:25> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{90D4AE3A-DF05-41E3-A7D5-33E8D7CD23D9}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:28:32> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{396636D8-BE67-4F2D-83F5-01DF012F236B}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:28:39> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{0E8F6BF3-4D75-431F-868C-DC969DE94CE3}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:28:46> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{516ECD08-5D7D-4ABD-8660-98B72F52848C}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:28:52> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{A05C0C18-3A00-426D-BDA2-4877F5585D64}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:29:07> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{7E773A1C-A691-4DBF-A00E-C84AAF89CED8}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:29:13> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{596D7DED-8686-4C35-AC0D-86C009BF9B45}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:29:20> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{8EBC9733-EDEF-4ED2-B74E-B13F1D6CF9F3}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:29:27> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{3912D935-1C2D-4F36-B247-633716FC683B}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:29:34> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{8D75C454-7445-4F7B-A512-BD818E8727B7}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:29:48> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{B3ABDC8F-06EE-4FDB-B83A-05C873400CB6}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:29:55> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{B2D634BC-6C73-41E8-9B66-0B35EA4556E1}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:30:02> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{7261E59E-105D-4C99-8BB9-D10DBB6625B8}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:30:09> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{43636FE2-1F00-42BF-BF5F-6DC3E84F9F3E}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:30:16> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{FE4C9024-9BEC-4AB2-A735-69A3591BEBD5}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:30:30> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{76140177-805A-4E07-AD11-61D654B3241F}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:30:37> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{B72833E8-C2FF-4182-BA33-9111295E1AFC}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:30:44> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{660718E0-1D3B-4104-B044-69B548879529}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:30:50> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{FCAD74BB-2E28-4EF5-BDF6-69FC55293351}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:30:58> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{027EEF4B-B883-4C56-BBF0-BD6D39C6B5A9}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:31:11> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{DB4A21DB-A0D1-42AF-833F-8BECE12B148E}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:31:18> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{73D64D61-BA1B-44E1-8B9C-C2F1C513E299}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:31:25> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{9B7C1336-5655-422B-8F59-0CAC32EFC782}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:31:32> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{DFE0BE0E-CD95-4120-B34D-91BD12E3A403}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:31:39> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{6D33D50D-4D63-4A26-905F-1A17E04D2924}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:31:52> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{7AAF8B91-E47A-44AF-B2A3-A8F31DE059D9}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:31:59> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{B5B68879-E9C8-42D7-867F-F1F20C248268}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:32:06> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{E9A5DC88-401D-4685-9A96-746276EEBA10}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:32:13> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{93F6334F-6CEE-417E-8179-2816B4AA3F98}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:32:20> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{B88A0322-7BDC-455B-B1E4-71CD90578BAF}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:32:34> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{28B1B342-1EB3-4777-8282-523B7FEE7AFC}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:32:41> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{FF30AFA9-7016-4F24-BA5F-A7481D02244E}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:32:48> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{F8CDAEB6-69B8-41EA-AF7E-D9DE1FBF2522}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:32:55> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{BA4A6312-4A13-44A5-8008-85BB7B4BDE10}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:33:02> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{59DDCFBA-C2C8-49EB-888F-8D8ABC73A0C2}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:33:15> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{AECEE0D0-415A-440F-AFCC-3690EFBCEC3B}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:33:22> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{205F48B6-4CEB-4FD5-8E41-73C5026414F0}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:33:29> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{42C9871C-19AF-4D67-9BA3-5109DA795D4D}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:33:36> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{DA7E8125-32DD-4B88-BA79-97B27D7C4BBB}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:33:43> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{6E0129E8-48ED-4207-84CA-DA3A87BEAA35}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:33:57> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{FC78B874-B2ED-47AC-A0BD-CBD1AE92C112}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:34:04> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{3402E92E-60FC-4669-9E4A-5F098CCB5521}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:34:11> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{55041FAA-BDDF-410D-BB4E-BA8D29B07157}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:34:18> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{0591A76E-C4B1-46D1-83E4-20BD013793FE}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:34:25> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{57AD81EF-0E2D-4208-814A-69AEDB8EC5EC}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:34:38> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{C6BEDBC7-92AC-48EE-88D2-E80F0A64AE26}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:34:45> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{42D41F13-AC2C-4F63-B6BC-DCF0C1B28288}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:34:52> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{B525CA68-D65D-4289-8E18-50CCB49E5DB5}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:34:59> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{9207F0B7-AD99-49EC-B943-2CCBB49E7700}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:35:06> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{17102A74-D63D-41F6-B308-9845270A15BA}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:35:13> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{AE99973E-63E1-4A11-9F96-85E76FCA21D0}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:35:20> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{B13DEA94-9A47-4D51-ABF2-FA70F585CD72}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:35:27> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{FE062F8B-2F45-48AE-9C1A-D2EF0969DC19}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:35:34> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{D7981FE1-E70D-4C0F-B0FE-9E7AD795563D}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:35:43> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{37A75C4B-12DD-43E0-8961-2E475429C30E}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:35:50> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{4CD0427C-6225-4B6D-AEAE-EE3629A61099}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:35:57> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{209C980D-C6A3-4EBE-9CA6-F2F767617253}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:36:04> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{70566EFF-9CC5-4702-A680-EDBAACBB5505}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:36:11> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{3102DA75-E815-4806-89C4-58219BE8F2D9}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:36:24> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{4F8E9D8C-5AE0-4FA4-96CB-503FA0F4F593}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:36:31> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{F2C62529-8DF3-4124-998D-91710F8BFFF4}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:36:38> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{A1B1EC8E-A7E1-44EC-9BA8-418D415283F6}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:36:45> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{D6E988BB-7CC5-4F46-AEBE-E04185F4DEAE}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:36:52> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{D5434B89-EA46-45CF-8503-7AF585C9E49F}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:37:06> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{A20FBF4E-AAA4-4EA0-A8EB-4F5CCC537475}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:37:13> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{A8CBFF01-A32D-4AA7-8CE4-B900A037C620}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:37:20> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{B527B1F3-3045-4671-A325-11F1C06A27AF}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:37:27> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{7D0BC9E1-9C43-405E-8FD1-AC24680457E2}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:37:33> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{F4236B1F-7B28-4238-B42D-1F456C8C444C}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:37:47> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{AD521F1C-5CE4-4DB3-882B-DE0C7A08866D}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:37:54> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{406D5CE5-8CE7-4934-BB5B-DD96105EFB7F}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:38:01> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 6404_10768_{AD1EF9DC-EBB4-48E9-9011-CF4FE845B957}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:38:08> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:38:15> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:38:28> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:38:36> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:38:42> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:38:49> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:38:56> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:39:10> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:39:17> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:39:23> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:39:30> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:39:37> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:39:51> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:39:58> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:40:05> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:40:12> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:40:19> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:40:33> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:40:39> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:40:46> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:40:53> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:41:00> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:41:14> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:41:21> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:41:28> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:41:35> [Print Loading, Load data report] Load report failed.
+29/10/2016 14:45:33> [OpenDyns]select t.* from rpt.VIEW_LOADING_INTRODUCTION_TM t  where t.LOAD_HEADER_NO=
+29/10/2016 14:45:33> ORA-00936: missing expression
+29/10/2016 14:46:05> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 2032_10220_{40A0D8F5-6122-4D59-B359-3ED177A727C4}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:47:03> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 2032_10220_{8F4A41DF-4A4A-4D7E-96CF-1971241F9220}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:48:29> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 2032_10220_{1A85CBBD-3510-4338-B2D8-6025812593D3}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:51:44> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{D49DBF97-7AC1-4238-9A44-582462E4EBC6}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:51:51> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{018BAE13-4EAC-4371-BB76-9CD2366B8972}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:51:58> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{60621872-26F5-434F-8234-3A4B13FDE855}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:52:04> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{CA2BBBD1-1C8A-491D-9F84-85EB76930476}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:52:11> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{CC471B2B-3EBE-494C-B363-5C6287F07766}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:52:25> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{BEE522CC-AD35-44C2-AD59-C5EC09A897DC}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:52:32> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{659ADB8F-6D36-4D5D-A3A0-BAE78C7EECFB}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:52:39> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{3947C56D-366A-4B97-9C97-56BAB1CD1054}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:52:46> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{8EF54F31-3731-45DF-AB2B-4BDAF8560E0D}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:52:53> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{D5875839-04A9-4934-B5B5-3BF855DDF470}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:53:08> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{13E630FB-69A4-4CD1-B2F8-FCE7447A6D97}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:53:14> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{A4376419-EC17-4E81-B36D-C8825B6BA5C5}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:53:22> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{AEA67DC2-7364-46C0-BA57-6C0F2E2663BD}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:53:29> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{B60BD796-BD77-47C3-887E-BAEFBC170A3B}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:53:36> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{7BD5B060-E3DC-4791-91A3-CC925B5CB8E9}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:53:50> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{2FD72879-892D-4F3C-8B5B-2335C9958A9C}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:53:57> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{9C515DAD-F074-4E3A-B6F5-13CE876C1D38}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:54:04> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{B96C2CDC-D77E-4897-9432-D2B234E816E5}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:54:11> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{AF6CCA13-B91A-4BC8-A185-EA7ED83307A9}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:54:18> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{37D6B047-5773-4A3A-A791-32B16A708301}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:54:33> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{B8BABBAB-686E-4FC8-8731-2AA31F3C2592}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:54:39> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{7F219377-3770-43B1-B86E-C700C7290D94}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:54:46> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{4B4A3AC5-EB8E-4416-95A3-3981703BD6C9}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:54:53> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{CF9EC67C-1B4A-4510-A72C-FFC8F0A9EF03}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:55:00> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{131442E1-136F-4E81-8633-012CAB39EA49}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:55:15> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{FD0D044D-E0DD-4A02-9F80-858A1830E0BC}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:55:22> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{B9566AFE-83B8-42C6-95FF-37B054BC36AF}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:55:29> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{AFCE7633-B187-48B8-A5C8-2223A1CCE624}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:55:36> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{C5A058BD-37BD-4C7E-A83D-E66B11D8560A}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:55:43> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{876D8A97-3FB9-4EAD-856A-4F890BE36E7F}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:55:57> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{D60EF293-6294-4F49-9192-BF91FCE17E1A}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:56:04> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{598DC79E-6C87-48AF-A5D2-C085148F200A}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:56:11> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{1FB51F3C-AD19-4318-BE61-71E74F7DFDC0}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:56:18> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{0CD3BAB9-5C42-4A1D-9AEE-B97A3FEF2650}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:56:25> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{108F36BE-DF05-407E-865A-FF51591F5700}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:56:40> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{CF424F11-BD13-4C59-9321-1574FE00F170}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:56:47> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{64284454-F55F-4156-9794-2741B1E67CFD}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:56:54> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{535A5141-90CA-4381-827E-B4E7C489E4CE}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:57:00> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{7B96F1D1-33E3-4894-906E-AE169E776D53}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:57:07> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{339D13AB-5468-4A6F-BC89-B60D052D9C40}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:57:22> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{BD69BE15-9EB1-46F7-90DA-D915B268116A}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:57:29> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{A8567C4E-BD07-4741-92B1-634A752799C3}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:57:36> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{A5D9E40B-B765-4B8C-9594-1A21C02F283A}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:57:43> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{11FC373B-B4C6-4C46-8956-8FFA9F124C66}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:57:50> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{72629876-53B0-42DA-8A7D-111D3FCF2CAC}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:58:04> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{80770A9C-9F8D-4B36-8DC1-B6C2C0F092ED}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:58:11> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{E4428B30-ED21-4BAB-8FE8-0BEDB52F0243}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:58:18> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{2C2B9AFF-9810-431E-9203-B5C2F2EFFF86}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:58:25> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{6DBE78A9-E08D-46E4-BF41-42E02768DDDD}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:58:32> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{289F5522-5887-44F4-BDB2-2920A8D6D0CD}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:58:47> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{14EDD82E-8E11-44EA-85F2-2AB1677D8399}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:58:54> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{A3E17E0E-3FBE-4C73-BDBF-654A9CA47EB3}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:59:00> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{782AAC11-5664-4E4E-B660-E29076BFA8A4}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:59:07> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{5BA7C2EE-FBF7-4EF5-B9BF-9FB665CC84EB}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:59:14> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{D8B2498B-6AB9-4E62-BF0D-46D36A4F1215}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:59:29> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{0902DC39-A6C8-49EB-953B-99F1821765C5}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:59:36> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{59C454C7-A62B-42A5-A3F2-30759C5AD145}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:59:43> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{0DD42026-6B30-4496-9240-408624745971}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:59:50> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{5921E5AB-E0CC-4D70-97F3-9F0151B8182B}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 14:59:57> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{D3B54ACB-B05A-4C64-BADB-DBE688175D98}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 15:00:11> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{41C5353E-A67A-4FE0-B333-2177F572BB12}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 15:00:18> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{DBE1AADF-C0AF-4631-B018-1C60CE2526F7}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 15:00:25> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{FF1FD4DD-5A5A-47C4-9E51-9818A6DDBBFE}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 15:00:32> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{740324F7-6E18-42A4-A77A-03475DCCC9E3}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 15:00:39> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{EA0307E1-D993-4BE6-B1D9-4CDFAD1DE249}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 15:00:54> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{DAB6BCCF-A17D-4227-A9B4-A3DDBD761B27}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 15:01:01> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 10156_2600_{E4CBE9FB-E00E-4181-AECF-9D58E720E239}.rpt:
+Error in formula  LoadingTime: 
+'TimeValue ({VIEW_DELIV_HEADER.T_END} - {VIEW_DELIV_HEADER.T_BEGIN})'
+A number, currency amount, date, time, or date-time is required here.
+Details: errorKind
+29/10/2016 17:07:18> [OpenDyns]select t.* from RPT.DAILY_LOADING_DETAIL  t  where t.LOAD_HEADER_NO=
+29/10/2016 17:07:18> ORA-00936: missing expression
+29/10/2016 17:10:45> [OpenDyns]select t.* from RPT.DAILY_LOADING_DETAIL  t  where t.LOAD_HEADER_NO=
+29/10/2016 17:10:45> ORA-00936: missing expression
+29/10/2016 17:11:03> [OpenDyns]select t.* from RPT.DAILY_LOADING_DETAIL  t  where t.LOAD_HEADER_NO=
+29/10/2016 17:11:03> ORA-00936: missing expression

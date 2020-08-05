@@ -1,0 +1,48 @@
+1-Auto Print Report LLTLB>12/09/2016 11:10:21><------------Application Start------------->
+1-Auto Print Report LLTLB>12/09/2016 11:18:30><------------Application Start------------->
+1-Auto Print Report LLTLB>12/09/2016 11:18:36> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/09/2016 11:18:36> Database connect successful.
+1-Auto Print Report LLTLB>12/09/2016 11:29:20><------------Application Start------------->
+1-Auto Print Report LLTLB>12/09/2016 11:29:27> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/09/2016 11:29:27> Database connect successful.
+1-Auto Print Report LLTLB>12/09/2016 11:31:32> SERVER B-LLTLBB
+1-Auto Print Report LLTLB>12/09/2016 11:31:32> Database connect successful.
+1-Auto Print Report LLTLB>12/09/2016 11:31:47> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/09/2016 11:31:47> Database connect successful.
+1-Auto Print Report LLTLB>12/09/2016 11:48:49><------------Application Start------------->
+1-Auto Print Report LLTLB>12/09/2016 11:48:56> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/09/2016 11:48:56> Database connect successful.
+1-Auto Print Report LLTLB>12/09/2016 14:09:37><------------Application Start------------->
+1-Auto Print Report LLTLB>12/09/2016 14:09:43> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/09/2016 14:09:43> Database connect successful.
+1-Auto Print Report LLTLB>12/09/2016 17:56:35><------------Application Start------------->
+1-Auto Print Report LLTLB>12/09/2016 17:56:41> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/09/2016 17:56:41> Database connect successful.
+1-Auto Print Report LLTLB>12/09/2016 17:57:12><------------Application Start------------->
+1-Auto Print Report LLTLB>12/09/2016 17:57:19> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/09/2016 17:57:19> Database connect successful.
+1-Auto Print Report LLTLB>12/09/2016 17:57:28><------------Application Stop-------------->
+1-Auto Print Report LLTLB>12/09/2016 17:58:32><------------Application Start------------->
+1-Auto Print Report LLTLB>12/09/2016 17:58:39> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/09/2016 17:58:39> Database connect successful.
+1-Auto Print Report LLTLB>12/09/2016 18:01:51><------------Application Start------------->
+1-Auto Print Report LLTLB>12/09/2016 18:01:57> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/09/2016 18:01:57> Database connect successful.
+1-Auto Print Report LLTLB>12/09/2016 18:16:00><------------Application Start------------->
+1-Auto Print Report LLTLB>12/09/2016 18:16:06> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/09/2016 18:16:06> Database connect successful.
+1-Auto Print Report LLTLB>12/09/2016 18:17:36><------------Application Start------------->
+1-Auto Print Report LLTLB>12/09/2016 18:17:42> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/09/2016 18:17:42> Database connect successful.
+1-Auto Print Report LLTLB>12/09/2016 18:32:40><------------Application Start------------->
+1-Auto Print Report LLTLB>12/09/2016 18:32:47> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/09/2016 18:32:47> Database connect successful.
+1-Auto Print Report LLTLB>12/09/2016 18:36:22><------------Application Start------------->
+1-Auto Print Report LLTLB>12/09/2016 18:36:28> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>12/09/2016 18:36:28> Database connect successful.
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176031
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176031
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176032
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176032
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176033
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176033

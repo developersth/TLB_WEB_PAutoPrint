@@ -1,0 +1,12 @@
+1-Auto Print Report LLTLB>20/10/2016 20:30:37><------------Application Start------------->
+1-Auto Print Report LLTLB>20/10/2016 20:30:43> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>20/10/2016 20:30:43> Database connect successful.
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Product.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Company.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT SummaryVolumeLoadReportByCompany.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>ลบข้อมูล report_printer_job : 20/10/2016 20:31:20
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Product.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Company.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT SummaryVolumeLoadReportByCompany.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>ลบข้อมูล report_printer_job : 20/10/2016 20:33:58
+1-Auto Print Report LLTLB>20/10/2016 20:34:42><------------Application Stop-------------->

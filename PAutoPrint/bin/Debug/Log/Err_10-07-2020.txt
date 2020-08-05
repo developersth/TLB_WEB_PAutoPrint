@@ -1,0 +1,2 @@
+10/07/2020 00:09:11> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+10/07/2020 00:09:12> [Print Weight, Check status loading] Object reference not set to an instance of an object.

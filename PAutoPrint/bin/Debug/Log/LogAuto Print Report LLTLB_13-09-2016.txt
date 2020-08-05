@@ -1,0 +1,67 @@
+1-Auto Print Report LLTLB>13/09/2016 15:09:05><------------Application Start------------->
+1-Auto Print Report LLTLB>13/09/2016 15:09:11> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>13/09/2016 15:09:11> Database connect successful.
+1-Auto Print Report LLTLB>13/09/2016 15:19:30><------------Application Start------------->
+1-Auto Print Report LLTLB>13/09/2016 15:19:36> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>13/09/2016 15:19:36> Database connect successful.
+1-Auto Print Report LLTLB>13/09/2016 15:27:47><------------Application Start------------->
+1-Auto Print Report LLTLB>13/09/2016 15:27:53> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>13/09/2016 15:27:53> Database connect successful.
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176034
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176034
+1-Auto Print Report LLTLB>13/09/2016 15:45:30><------------Application Start------------->
+1-Auto Print Report LLTLB>13/09/2016 15:45:36> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>13/09/2016 15:45:36> Database connect successful.
+1-Auto Print Report LLTLB>13/09/2016 16:03:04><------------Application Start------------->
+1-Auto Print Report LLTLB>13/09/2016 16:03:11> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>13/09/2016 16:03:11> Database connect successful.
+1-Auto Print Report LLTLB>13/09/2016 16:16:59><------------Application Start------------->
+1-Auto Print Report LLTLB>13/09/2016 16:17:05> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>13/09/2016 16:17:05> Database connect successful.
+1-Auto Print Report LLTLB>13/09/2016 16:26:14><------------Application Start------------->
+1-Auto Print Report LLTLB>13/09/2016 16:26:20> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>13/09/2016 16:26:20> Database connect successful.
+1-Auto Print Report LLTLB>Print Report Loading NO 510176023
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176023
+1-Auto Print Report LLTLB>Print Report Weight NO 510176034
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176034
+1-Auto Print Report LLTLB>13/09/2016 16:49:37><------------Application Start------------->
+1-Auto Print Report LLTLB>13/09/2016 16:49:43> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>13/09/2016 16:49:43> Database connect successful.
+1-Auto Print Report LLTLB>Print Report Weight NO 510176034
+1-Auto Print Report LLTLB>Print Report Loading NO 510176034
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176034
+1-Auto Print Report LLTLB>13/09/2016 16:55:59><------------Application Start------------->
+1-Auto Print Report LLTLB>13/09/2016 16:56:05> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>13/09/2016 16:56:05> Database connect successful.
+1-Auto Print Report LLTLB>Print Report Weight NO 510176034
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176034
+1-Auto Print Report LLTLB>13/09/2016 16:59:16><------------Application Start------------->
+1-Auto Print Report LLTLB>13/09/2016 16:59:23> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>13/09/2016 16:59:23> Database connect successful.
+1-Auto Print Report LLTLB>13/09/2016 16:59:54><------------Application Start------------->
+1-Auto Print Report LLTLB>13/09/2016 17:00:00> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>13/09/2016 17:00:00> Database connect successful.
+1-Auto Print Report LLTLB>13/09/2016 17:03:57><------------Application Start------------->
+1-Auto Print Report LLTLB>13/09/2016 17:04:03> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>13/09/2016 17:04:03> Database connect successful.
+1-Auto Print Report LLTLB>13/09/2016 17:07:54><------------Application Start------------->
+1-Auto Print Report LLTLB>13/09/2016 17:08:01> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>13/09/2016 17:08:01> Database connect successful.
+1-Auto Print Report LLTLB>13/09/2016 17:10:45><------------Application Start------------->
+1-Auto Print Report LLTLB>13/09/2016 17:10:51> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>13/09/2016 17:10:51> Database connect successful.
+1-Auto Print Report LLTLB>Print Report Loading NO 510176034
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176034
+1-Auto Print Report LLTLB>Print Report Weight NO 510176034
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176034
+1-Auto Print Report LLTLB>13/09/2016 17:15:00><------------Application Start------------->
+1-Auto Print Report LLTLB>13/09/2016 17:15:06> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>13/09/2016 17:15:06> Database connect successful.
+1-Auto Print Report LLTLB>13/09/2016 17:16:02><------------Application Start------------->
+1-Auto Print Report LLTLB>13/09/2016 17:16:08> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>13/09/2016 17:16:08> Database connect successful.
+1-Auto Print Report LLTLB>Print Report Loading NO 510176034
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176034
+1-Auto Print Report LLTLB>Print Report Weight NO 510176034
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176034

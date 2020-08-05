@@ -1,0 +1,129 @@
+E:\งาน\G15-026_TAM\LLTLB\Print_Auto\AutoPrint\bin\Release\PAutoPrintReport.exe.config
+E:\งาน\G15-026_TAM\LLTLB\Print_Auto\AutoPrint\bin\Release\AppStartup.ini
+E:\งาน\G15-026_TAM\LLTLB\Print_Auto\AutoPrint\bin\Release\PAutoPrintReport.exe
+E:\งาน\G15-026_TAM\LLTLB\Print_Auto\AutoPrint\bin\Release\PAutoPrintReport.pdb
+E:\งาน\G15-026_TAM\LLTLB\Print_Auto\AutoPrint\bin\Release\IniLib.dll
+E:\งาน\G15-026_TAM\LLTLB\Print_Auto\AutoPrint\bin\Release\log4net.dll
+E:\งาน\G15-026_TAM\LLTLB\Print_Auto\AutoPrint\bin\Release\Oracle.DataAccess.dll
+E:\งาน\G15-026_TAM\LLTLB\Print_Auto\AutoPrint\bin\Release\Unme.Common.dll
+E:\งาน\G15-026_TAM\LLTLB\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.frmMain.resources
+E:\งาน\G15-026_TAM\LLTLB\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.Properties.Resources.resources
+E:\งาน\G15-026_TAM\LLTLB\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.csproj.GenerateResource.Cache
+E:\งาน\G15-026_TAM\LLTLB\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.exe
+E:\งาน\G15-026_TAM\LLTLB\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.pdb
+E:\งาน\G15-026_TAM\LLTLB\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.csprojResolveAssemblyReference.cache
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\PAutoPrintReport.exe.config
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.exe
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.pdb
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\AppStartup.ini
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\PAutoPrintReport.exe
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\PAutoPrintReport.pdb
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\IniLib.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\log4net.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Oracle.DataAccess.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Unme.Common.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.csprojResolveAssemblyReference.cache
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.frmMain.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.Properties.Resources.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.csproj.GenerateResource.Cache
+D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\bin\Release\PAutoPrintReport.exe.config
+D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.exe
+D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.pdb
+D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\bin\Release\AppStartup.ini
+D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\bin\Release\PAutoPrintReport.exe
+D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\bin\Release\PAutoPrintReport.pdb
+D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\bin\Release\IniLib.dll
+D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\bin\Release\log4net.dll
+D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\bin\Release\Oracle.DataAccess.dll
+D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\bin\Release\Unme.Common.dll
+D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.csprojResolveAssemblyReference.cache
+D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.frmMain.resources
+D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.Properties.Resources.resources
+D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\obj\x86\Release\PAutoPrintReport.csproj.GenerateResource.Cache
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\PAutoPrintReport.exe.config
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.exe
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.pdb
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\AppStartup.ini
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\PAutoPrintReport.exe
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\PAutoPrintReport.pdb
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\IniLib.dll
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\log4net.dll
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\Oracle.DataAccess.dll
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\Unme.Common.dll
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.frmMain.resources
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.Properties.Resources.resources
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.csproj.GenerateResource.Cache
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.ReportSource.dll
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.Shared.dll
+D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.csprojResolveAssemblyReference.cache
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\PAutoPrintReport.exe.config
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.exe
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.pdb
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\AppStartup.ini
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\PAutoPrintReport.exe
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\PAutoPrintReport.pdb
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.ReportSource.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.Shared.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\IniLib.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\log4net.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Oracle.DataAccess.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Unme.Common.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.csprojResolveAssemblyReference.cache
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.frmMain.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.Properties.Resources.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.csproj.GenerateResource.Cache
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\PAutoPrintReport.exe.config
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.exe
+D:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.pdb
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\PAutoPrintReport.exe.config
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.exe
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.pdb
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\AppStartup.ini
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\PAutoPrintReport.exe
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\PAutoPrintReport.pdb
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.ReportSource.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.Shared.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\IniLib.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\log4net.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Oracle.DataAccess.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Unme.Common.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\stdole.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.csprojResolveAssemblyReference.cache
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.frmMain.resources
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.Properties.Resources.resources
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.csproj.GenerateResource.Cache
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Release\AppStartup.ini
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Release\PAutoPrintReport.exe.config
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Release\PAutoPrintReport.exe
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Release\PAutoPrintReport.pdb
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.ReportSource.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Release\CrystalDecisions.Shared.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Release\IniLib.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Release\log4net.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Release\Oracle.DataAccess.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Release\Unme.Common.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\bin\Release\stdole.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.csprojAssemblyReference.cache
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.frmMain.resources
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.Properties.Resources.resources
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.csproj.GenerateResource.cache
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.csproj.CoreCompileInputs.cache
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.csproj.CopyComplete
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.exe
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PAutoPrint\PAutoPrint\obj\x86\Release\PAutoPrintReport.pdb

@@ -1,0 +1,202 @@
+18/10/2016 11:37:50> [ExecuteSQL]select t.config_data,t.update_date from tas.tas_config t where t.config_id=90
+18/10/2016 11:37:50> [ExecuteSQL]ORA-12571: TNS:packet writer failure
+ORA-12571: TNS:packet writer failure
+18/10/2016 11:38:10> [Print Instruction, CheckStatusLoading] Object reference not set to an instance of an object.
+18/10/2016 11:38:10> [Print Weight, Check status loading] Object reference not set to an instance of an object.
+18/10/2016 11:38:10> [Print Instruction, CheckStatusLoading] Object reference not set to an instance of an object.
+18/10/2016 14:13:36> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+18/10/2016 14:13:38> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+18/10/2016 14:13:39> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+18/10/2016 14:13:41> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+18/10/2016 14:13:42> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+18/10/2016 14:13:44> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+18/10/2016 14:13:45> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+18/10/2016 14:14:15> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+18/10/2016 14:14:58> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+18/10/2016 14:14:59> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+18/10/2016 14:15:01> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+18/10/2016 16:28:39> [Print Instruction, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 16:29:30> [Print Instruction, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 21:05:14> [Print Instruction, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 21:05:48> [Print Instruction, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 21:14:17> [Print Instruction, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 21:27:42> [Print Instruction, Load data report] Missing parameter values.
+18/10/2016 21:29:30> [Print Instruction, Load data report] Cannot find table 1.
+18/10/2016 21:53:13> [Print Instruction, Load data report] Error in File load_introduction_tm 3448_5976_{B123A0D9-FF33-4DDE-9D8C-967B2E60CBB1}.rpt:
+Invalid group condition.
+18/10/2016 22:03:56> [Print Instruction, Load data report] Error in File load_introduction_tm 5628_14512_{0F810836-264E-416E-8FF8-92C1F732BA6A}.rpt:
+Invalid group condition.
+18/10/2016 22:42:02> [Print Instruction, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 22:42:53> [Print Instruction, Load data report] Invalid report file path.
+18/10/2016 22:44:17> [Print Instruction, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:01:05> [OpenDyns]select t.* from tas.view_loading_volume_by_product t
+18/10/2016 23:01:05> Arithmetic operation resulted in an overflow.
+18/10/2016 23:24:05> [OpenDyns]select t.* from tas.view_loading_volume_by_product t where t.eod_date =to_date('18/23/2016','dd/MM/yyyy')
+18/10/2016 23:24:05> ORA-01843: not a valid month
+18/10/2016 23:26:43> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:26:47> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:26:51> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:26:55> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:26:59> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:27:03> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:27:06> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:27:10> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:27:16> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:27:20> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:27:24> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:27:28> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:27:32> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:27:36> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:27:40> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:27:45> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:28:00> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:28:04> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:28:07> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:28:11> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:28:15> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:28:19> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:28:23> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:28:28> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:28:43> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:28:48> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:28:52> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:28:57> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:29:02> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:29:06> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:29:10> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:29:25> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:29:30> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:29:35> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:29:39> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:29:43> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:29:47> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:29:51> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:30:07> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:30:11> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:30:15> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:30:19> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:30:23> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:30:27> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:30:32> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:30:36> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:30:52> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:30:56> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:31:00> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:31:05> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:31:10> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:31:14> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:31:18> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:31:22> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:31:37> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:31:42> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:31:46> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:31:50> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:31:54> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:31:58> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:32:02> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:32:06> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:40:01> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:40:05> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:40:09> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:40:13> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:40:17> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:40:21> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:40:25> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:40:29> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:42:56> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:42:59> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:43:03> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:43:07> [Print EndOfDay, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:54:19> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:54:21> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:54:23> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:54:25> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:54:27> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:54:29> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:54:32> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:54:34> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:54:36> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:54:38> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:54:40> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:54:42> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:54:44> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:54:45> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:54:59> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:00> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:02> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:04> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:06> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:08> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:11> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:13> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:15> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:17> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:19> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:21> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:23> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:25> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:27> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:40> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:43> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:44> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:46> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:48> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:50> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:52> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:53> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:56> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:55:58> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:00> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:02> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:04> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:06> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:08> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:10> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:23> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:25> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:28> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:31> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:34> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:37> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:40> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:44> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:47> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:49> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:50> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:53> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:57> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:56:59> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:57:00> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:57:02> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:57:04> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:57:06> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:57:08> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:57:10> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:57:12> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:57:15> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:57:17> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:57:19> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:57:21> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:57:23> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:57:25> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:57:38> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:57:42> [Print Loading, Load data report] Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+18/10/2016 23:57:45> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:57:48> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:57:51> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:57:53> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:57:55> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:57:57> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:57:59> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:58:01> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:58:03> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:58:06> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:58:08> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:58:21> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:58:23> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:58:25> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:58:27> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:58:29> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:58:31> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:58:33> [Print Loading, Load data report] Load report failed.
+18/10/2016 23:58:36> [Print Loading, Load data report] Load report failed.

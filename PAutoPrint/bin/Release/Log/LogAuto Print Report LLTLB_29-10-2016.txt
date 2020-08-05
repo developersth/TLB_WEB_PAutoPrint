@@ -1,0 +1,289 @@
+1-Auto Print Report LLTLB>29/10/2016 14:06:00><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 14:06:07> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>29/10/2016 14:06:07> Database connect successful.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>29/10/2016 14:07:52><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 14:07:59> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>29/10/2016 14:07:59> Database connect successful.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>Your Plug-N-Play printer is not connected.
+1-Auto Print Report LLTLB>29/10/2016 14:20:50><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 14:20:56> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>29/10/2016 14:20:56> Database connect successful.
+1-Auto Print Report LLTLB>29/10/2016 14:22:38><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 14:22:45> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>29/10/2016 14:22:45> Database connect successful.
+1-Auto Print Report LLTLB>29/10/2016 14:27:52> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:28:02> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:28:09> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:28:24> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:28:31> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:28:38> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:28:45> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:28:52> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:29:06> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:29:13> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:29:20> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:29:27> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:29:34> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:29:48> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:29:55> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:30:02> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:30:09> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:30:16> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:30:29> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:30:36> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:30:43> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:30:50> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:30:57> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:31:11> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:31:18> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:31:25> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:31:32> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:31:39> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:31:52> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:31:59> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:32:06> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:32:13> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:32:20> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:32:34> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:32:41> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:32:48> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:32:54> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:33:01> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:33:15> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:33:22> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:33:29> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:33:36> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:33:43> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:33:56> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:34:03> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:34:10> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:34:17> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:34:24> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:34:38> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:34:45> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:34:52> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:34:59> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:35:06> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:35:13> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:35:20> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:35:26> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:35:34> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:35:43> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:35:50> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:35:56> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:36:03> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:36:11> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:36:24> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:36:31> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:36:38> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:36:45> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:36:52> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:37:05> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:37:12> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:37:19> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:37:26> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:37:33> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:37:47> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:37:54> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:38:01> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:38:08> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:38:15> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:38:28> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:38:35> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:38:42> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:38:49> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:38:56> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:39:09> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:39:16> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:39:23> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:39:30> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:39:37> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:39:51> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:39:58> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:40:05> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:40:12> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:40:19> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:40:32> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:40:39> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:40:46> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:40:53> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:41:00> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:41:14> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:41:21> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:41:27> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:41:34> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:44:31><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 14:44:37> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>29/10/2016 14:44:37> Database connect successful.
+1-Auto Print Report LLTLB>29/10/2016 14:46:04> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:46:58> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:47:50> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:51:01><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 14:51:08> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>29/10/2016 14:51:08> Database connect successful.
+1-Auto Print Report LLTLB>29/10/2016 14:51:43> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:51:50> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:51:57> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:52:04> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:52:11> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:52:25> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:52:32> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:52:39> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:52:46> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:52:53> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:53:07> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:53:14> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:53:21> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:53:28> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:53:35> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:53:50> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:53:57> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:54:04> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:54:11> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:54:18> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:54:32> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:54:39> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:54:46> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:54:53> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:55:00> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:55:15> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:55:22> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:55:29> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:55:35> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:55:42> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:55:57> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:56:04> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:56:11> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:56:18> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:56:25> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:56:39> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:56:46> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:56:53> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:57:00> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:57:07> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:57:22> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:57:29> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:57:36> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:57:42> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:57:49> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:58:04> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:58:11> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:58:18> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:58:25> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:58:32> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:58:46> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:58:53> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:59:00> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:59:07> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:59:14> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:59:29> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:59:35> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:59:42> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:59:49> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 14:59:56> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 15:00:11> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 15:00:18> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 15:00:25> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 15:00:32> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 15:00:39> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 15:00:53> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 15:01:00> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 16:47:30><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 16:51:54><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 16:52:01> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>29/10/2016 16:52:01> Database connect successful.
+1-Auto Print Report LLTLB>29/10/2016 16:52:54><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 16:53:01> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>29/10/2016 16:53:01> Database connect successful.
+1-Auto Print Report LLTLB>29/10/2016 16:53:26><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 16:53:32> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>29/10/2016 16:53:32> Database connect successful.
+1-Auto Print Report LLTLB>29/10/2016 16:54:04><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 16:54:11> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>29/10/2016 16:54:11> Database connect successful.
+1-Auto Print Report LLTLB>29/10/2016 16:54:58><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 16:55:04> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>29/10/2016 16:55:04> Database connect successful.
+1-Auto Print Report LLTLB>29/10/2016 17:00:36> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Gov Project Attach Report(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 17:01:19><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 17:01:26> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>29/10/2016 17:01:26> Database connect successful.
+1-Auto Print Report LLTLB>29/10/2016 17:02:40> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Gov Project Attach Report(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 17:04:02><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 17:04:09> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>29/10/2016 17:04:09> Database connect successful.
+1-Auto Print Report LLTLB>29/10/2016 17:05:53> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Gov Project Attach Report(Auto).rpt
+1-Auto Print Report LLTLB>29/10/2016 17:06:51><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 17:06:58> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>29/10/2016 17:06:58> Database connect successful.
+1-Auto Print Report LLTLB>29/10/2016 17:07:48> There is no row at position 0.[source>System.Data]
+1-Auto Print Report LLTLB>29/10/2016 17:10:16><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 17:10:22> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>29/10/2016 17:10:22> Database connect successful.
+1-Auto Print Report LLTLB>29/10/2016 17:11:48><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>29/10/2016 17:11:54> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>29/10/2016 17:11:54> Database connect successful.
+1-Auto Print Report LLTLB>29/10/2016 17:13:08> E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\Gov Project Attach Report(Auto).rpt

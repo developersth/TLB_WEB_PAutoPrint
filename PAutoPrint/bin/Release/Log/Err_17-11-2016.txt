@@ -1,0 +1,1 @@
+17/11/2016 13:17:36> [Print Weight, Check status loading] Object reference not set to an instance of an object.

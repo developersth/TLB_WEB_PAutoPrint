@@ -1,0 +1,169 @@
+1-Auto Print Report LLTLB>19/10/2016 00:28:30><------------Application Start------------->
+1-Auto Print Report LLTLB>19/10/2016 00:28:37> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>19/10/2016 00:28:37> Database connect successful.
+1-Auto Print Report LLTLB>19/10/2016 00:30:09><------------Application Start------------->
+1-Auto Print Report LLTLB>19/10/2016 00:30:15> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>19/10/2016 00:30:15> Database connect successful.
+1-Auto Print Report LLTLB>19/10/2016 00:36:00><------------Application Start------------->
+1-Auto Print Report LLTLB>19/10/2016 00:36:06> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>19/10/2016 00:36:06> Database connect successful.
+1-Auto Print Report LLTLB>Print Report Loading NO 510175996
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175996
+1-Auto Print Report LLTLB>Print Report Loading NO 510175996
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175996
+1-Auto Print Report LLTLB>Print Report Loading NO 510175996
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175996
+1-Auto Print Report LLTLB>Print Report Loading NO 510175996
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175996
+1-Auto Print Report LLTLB>Print Report Loading NO 510175996
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175996
+1-Auto Print Report LLTLB>19/10/2016 00:39:08><------------Application Start------------->
+1-Auto Print Report LLTLB>19/10/2016 00:39:14> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>19/10/2016 00:39:14> Database connect successful.
+1-Auto Print Report LLTLB>19/10/2016 00:49:36><------------Application Start------------->
+1-Auto Print Report LLTLB>19/10/2016 00:49:42> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>19/10/2016 00:49:42> Database connect successful.
+1-Auto Print Report LLTLB>Print Report Loading NO 510175998
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510175998
+1-Auto Print Report LLTLB>PRINT loading_volume_by_product REPORT LOADING NUMBER: 
+1-Auto Print Report LLTLB>ลบข้อมูล report_printer_job : 19/10/2016 00:53:03
+1-Auto Print Report LLTLB>19/10/2016 08:00:27><------------Application Start------------->
+1-Auto Print Report LLTLB>19/10/2016 08:08:54><------------Application Stop-------------->
+1-Auto Print Report LLTLB>19/10/2016 08:09:18><------------Application Start------------->
+1-Auto Print Report LLTLB>19/10/2016 08:11:10> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>19/10/2016 08:11:10> Database connect successful.
+1-Auto Print Report LLTLB>19/10/2016 13:11:09><------------Application Start------------->
+1-Auto Print Report LLTLB>19/10/2016 13:11:15> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>19/10/2016 13:11:15> Database connect successful.
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 13:12:09> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 13:12:43> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 13:13:19> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 13:16:25> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 13:20:28> Error in File Detail Oil Bulk Loading Mass By Cust 14960_11160_{9A72B3C4-8374-4BE8-8DE5-939CA55BD794}.rpt:
+Invalid group condition.[source>CrystalDecisions.ReportAppServer.DataSetConversion]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 13:21:12><------------Application Start------------->
+1-Auto Print Report LLTLB>19/10/2016 13:21:18> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>19/10/2016 13:21:18> Database connect successful.
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176083
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176083
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176084
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176084
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 14:04:03> Error in File Detail Oil Bulk Loading Mass By Cust 14340_7196_{F50E2DA5-EAC3-4D54-A250-BC531A23A5C6}.rpt:
+Invalid group condition.[source>CrystalDecisions.ReportAppServer.DataSetConversion]
+1-Auto Print Report LLTLB>19/10/2016 14:04:24><------------Application Start------------->
+1-Auto Print Report LLTLB>19/10/2016 14:04:30> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>19/10/2016 14:04:30> Database connect successful.
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 14:06:11> Error in File Detail Oil Bulk Loading Mass By Cust 112_5688_{94662C4F-98B5-4608-BC7A-FB18586CC69E}.rpt:
+Invalid group condition.[source>CrystalDecisions.ReportAppServer.DataSetConversion]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 17:12:50><------------Application Start------------->
+1-Auto Print Report LLTLB>19/10/2016 17:12:56> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>19/10/2016 17:12:57> Database connect successful.
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176085
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176085
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT INSTRUCTION REPORT LOADING NUMBER: 510176086
+1-Auto Print Report LLTLB>UPDATE PRINT STATUS of LOAD HEAD NO: 510176086
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 17:26:50> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 17:28:30> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 17:29:01> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 17:29:10> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 17:29:29> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 17:32:46> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 17:33:02> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 17:33:10> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 17:33:19> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 17:33:29> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 20:21:38><------------Application Start------------->
+1-Auto Print Report LLTLB>19/10/2016 20:27:55><------------Application Start------------->
+1-Auto Print Report LLTLB>19/10/2016 20:28:01> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>19/10/2016 20:28:01> Database connect successful.
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 20:29:15> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>19/10/2016 20:50:40><------------Application Start------------->
+1-Auto Print Report LLTLB>19/10/2016 20:50:47> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>19/10/2016 20:50:47> Database connect successful.
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 20:54:15> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 20:55:15> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 20:55:55> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 20:56:58> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 20:57:34> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 20:58:08> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 20:58:37> Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))[source>CrystalDecisions.ReportAppServer.DataDefModel]
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 21:01:04><------------Application Start------------->
+1-Auto Print Report LLTLB>19/10/2016 21:01:10> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>19/10/2016 21:01:10> Database connect successful.
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT view_load_volume_report_daily REPORT END OF DAY 
+1-Auto Print Report LLTLB>19/10/2016 21:10:11><------------Application Start------------->
+1-Auto Print Report LLTLB>19/10/2016 21:10:17> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>19/10/2016 21:10:17> Database connect successful.
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Product.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Company.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>ลบข้อมูล report_printer_job : 19/10/2016 21:11:04
+1-Auto Print Report LLTLB>Print Report Loading NO 510176087
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176087
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Product.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Company.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>ลบข้อมูล report_printer_job : 19/10/2016 21:14:31
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Product.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>PRINT Detail Oil Bulk Loading Volume By Company.rpt REPORT END OF DAY 
+1-Auto Print Report LLTLB>ลบข้อมูล report_printer_job : 19/10/2016 21:16:50

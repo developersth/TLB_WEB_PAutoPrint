@@ -1,0 +1,209 @@
+27/07/2016 17:40:49> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:40:49> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:40:50> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:40:50> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:40:50> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:40:50> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:40:52> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:40:52> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:40:53> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:40:53> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:40:53> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:40:53> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:40:58> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:40:58> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:40:58> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:40:58> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:40:58> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:40:58> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:02> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:02> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:03> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:03> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:03> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:03> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:07> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:07> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:08> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:08> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:08> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:08> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:13> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:13> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:13> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:13> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:13> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:13> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:17> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:17> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:18> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:18> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:18> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:18> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:22> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:22> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:23> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:23> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:23> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:23> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:28> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:28> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:28> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:28> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:28> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:28> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:33> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:33> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:33> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:33> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:33> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:33> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:37> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:37> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:38> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:38> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:38> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:38> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:43> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:43> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:43> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:43> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:43> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:43> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:48> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:48> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:48> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:48> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:48> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:48> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:53> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:53> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:53> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:53> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:53> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:53> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:58> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:58> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:58> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:58> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:41:58> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:41:58> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:03> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:03> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:03> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:03> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:03> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:03> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:08> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:08> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:08> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:08> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:08> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:08> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:13> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:13> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:13> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:13> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:13> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:13> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:18> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:18> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:18> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:18> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:18> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:18> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:23> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:23> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:23> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:23> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:23> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:23> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:28> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:28> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:28> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:28> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:28> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:28> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:33> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:33> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:33> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:33> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:33> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:33> ORA-00904: "T"."OPC_SERVER_NAME": invalid identifier
+27/07/2016 17:42:38> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:38> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:42:38> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:38> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:42:38> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:38> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:42:43> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:43> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:42:43> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:43> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:42:43> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:43> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:42:48> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:48> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:42:48> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:48> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:42:48> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:48> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:42:53> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:53> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:42:53> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:53> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:42:53> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:53> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:42:58> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:58> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:42:58> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:58> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:42:58> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:42:58> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:03> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:03> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:03> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:03> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:03> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:03> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:08> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:08> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:08> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:08> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:08> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:08> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:13> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:13> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:13> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:13> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:13> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:13> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:18> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:18> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:18> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:18> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:18> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:18> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:23> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:23> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:23> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:23> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:23> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:23> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:28> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:28> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:28> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:28> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 17:43:28> [OpenDyns]select t.atg_address,t.scan_name,t.opc_server_name,t.opc_channel_name,t.opc_device_name,'Addr=' || t.atg_address || ', ' || t.comport_no || ':' || t.comport_no1  as Description from tas.VIEW_ATG_CONFIG_INITAIL t where t.atg_id=1 order by t.atg_id
+27/07/2016 17:43:28> ORA-00904: "T"."SCAN_NAME": invalid identifier
+27/07/2016 18:39:22> [ExecuteSQL]update steqi.ATG_DATA_BUFFER t set t.update_date=sysdate where t.start_addr=1025 and t.function_no=3t.update_date=sysdate, t.description=0[OPC_QUALITY_BAD] where t.start_addr=1025 and t.function_no=3
+27/07/2016 18:39:22> [ExecuteSQL]ORA-00933: SQL command not properly ended
+27/07/2016 18:40:07> [ExecuteSQL]update steqi.ATG_DATA_BUFFER t set t.update_date=sysdate, t.description=0[OPC_QUALITY_BAD] where t.start_addr=1025 and t.function_no=3
+27/07/2016 18:40:07> [ExecuteSQL]ORA-00933: SQL command not properly ended
+27/07/2016 19:24:12> [ExecuteSQL]select t.config_data,t.update_date from tas.tas_config t where t.config_id=90
+27/07/2016 19:24:12> [ExecuteSQL]ORA-03135: connection lost contact
+Process ID: 7868
+Session ID: 11 Serial number: 35054
+ORA-03135: connection lost contact
+Process ID: 7868
+Session ID: 11 Serial number: 35054

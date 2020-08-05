@@ -1,0 +1,15 @@
+25/10/2016 18:58:11> [Print Instruction, CheckStatusLoading] Object reference not set to an instance of an object.
+25/10/2016 18:58:12> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+25/10/2016 18:58:13> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+25/10/2016 19:11:16> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+25/10/2016 19:11:16> [Print Instruction, CheckStatusLoading] Object reference not set to an instance of an object.
+25/10/2016 19:11:17> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+25/10/2016 19:13:08> [Print Instruction, Get config report] Object reference not set to an instance of an object.
+25/10/2016 20:22:16> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:22:16> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS >= 55 and t.is_weight_process=0 and t.PRINT_STATUS <> 2  order by t.UPDATE_DATE
+25/10/2016 20:22:16> ORA-01722: invalid number
+25/10/2016 20:22:16> ORA-01722: invalid number
+25/10/2016 21:51:27> [Print Loading, Load data report] Invalid printer specified.
+Delivery_Receipt(Auto) 9932_8740_{B58E9F36-337B-4F66-BB3C-26DE44AE6BA9}.rpt
+25/10/2016 22:40:46> [Print Loading, Load data report] Invalid printer specified.
+Delivery_Receipt(Auto) 7520_7096_{F74A445F-198C-42E3-935F-05665842DA3D}.rpt

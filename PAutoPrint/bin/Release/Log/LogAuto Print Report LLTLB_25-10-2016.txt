@@ -1,0 +1,58 @@
+1-Auto Print Report LLTLB>25/10/2016 18:57:58><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial path [D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\bin\Release]
+1-Auto Print Report LLTLB>25/10/2016 18:58:05> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 18:58:05> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 18:58:10><------------Application Stop-------------->
+1-Auto Print Report LLTLB>25/10/2016 19:10:57><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\bin\Release\
+1-Auto Print Report LLTLB>25/10/2016 19:11:03> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 19:11:03> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 19:11:13><------------Application Stop-------------->
+1-Auto Print Report LLTLB>25/10/2016 19:12:57><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\bin\Release\
+1-Auto Print Report LLTLB>25/10/2016 19:13:03> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 19:13:03> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 19:13:07><------------Application Stop-------------->
+1-Auto Print Report LLTLB>25/10/2016 19:15:11><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\bin\Release\
+1-Auto Print Report LLTLB>25/10/2016 19:15:17> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 19:15:17> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 19:15:21><------------Application Stop-------------->
+1-Auto Print Report LLTLB>25/10/2016 19:15:56><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\Print_Auto\AutoPrint\bin\Release\
+1-Auto Print Report LLTLB>25/10/2016 19:16:03> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 19:16:03> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 19:16:08><------------Application Stop-------------->
+1-Auto Print Report LLTLB>25/10/2016 19:34:55><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\
+1-Auto Print Report LLTLB>25/10/2016 19:35:01> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 19:35:01> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 19:35:11><------------Application Stop-------------->
+1-Auto Print Report LLTLB>25/10/2016 20:21:58><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\
+1-Auto Print Report LLTLB>25/10/2016 20:22:05> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 20:22:05> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 21:37:06><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>25/10/2016 21:37:12> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 21:37:12> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 21:37:17> Printer report Load No.=510224627
+1-Auto Print Report LLTLB>25/10/2016 21:47:54><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>25/10/2016 21:48:00> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 21:48:00> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 21:48:04> Printer report Load No.=510224627
+1-Auto Print Report LLTLB>25/10/2016 21:50:57> D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>25/10/2016 22:21:19><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>25/10/2016 22:21:25> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 22:21:25> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 22:21:30> Printer report Load No.=510224628
+1-Auto Print Report LLTLB>25/10/2016 22:21:45> D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>25/10/2016 22:37:42><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>25/10/2016 22:37:49> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>25/10/2016 22:37:49> Database connect successful.
+1-Auto Print Report LLTLB>25/10/2016 22:37:53> Printer report Load No.=510224628
+1-Auto Print Report LLTLB>25/10/2016 22:40:29> D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt
+1-Auto Print Report LLTLB>25/10/2016 22:44:57> D:\My Code\TLB Upgrading\PAutoPrint\PAutoPrint\bin\Release\Report File\Delivery_Receipt(Auto).rpt

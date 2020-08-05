@@ -1,0 +1,10 @@
+1-Auto Print Report LLTLB>22/08/2016 17:31:43><------------Application Start------------->
+1-Auto Print Report LLTLB>22/08/2016 17:31:54> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>22/08/2016 17:31:54> Database connect successful.
+1-Auto Print Report LLTLB>22/08/2016 17:32:44><------------Application Start------------->
+1-Auto Print Report LLTLB>22/08/2016 17:32:50>Object reference not set to an instance of an object.[PAutoPrintReport-InitialDatabase]
+1-Auto Print Report LLTLB>22/08/2016 17:32:50> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>22/08/2016 17:32:50> Database connect successful.
+1-Auto Print Report LLTLB>22/08/2016 17:34:43><------------Application Start------------->
+1-Auto Print Report LLTLB>22/08/2016 17:34:50> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>22/08/2016 17:34:50> Database connect successful.

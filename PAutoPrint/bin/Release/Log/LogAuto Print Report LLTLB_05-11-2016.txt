@@ -1,0 +1,43 @@
+1-Auto Print Report LLTLB>05/11/2016 09:19:45><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>05/11/2016 09:19:51> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>05/11/2016 09:19:51> Database connect successful.
+1-Auto Print Report LLTLB>05/11/2016 09:19:56> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:20:15> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:20:20> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:20:25> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:20:30> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:20:35> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:20:48> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:21:27> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:21:44> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:21:49> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:21:54> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:21:59> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:22:04> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:22:10> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:22:25> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:22:31> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:22:36> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:22:41> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:22:46> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:22:52> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:23:08> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:23:14> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:23:19> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:23:24> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:23:29> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:23:34> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:23:50> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:23:55> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:24:01> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:24:13> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:24:51> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:25:06> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:25:12> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:25:17> Printer report Load No.=510224835
+1-Auto Print Report LLTLB>05/11/2016 09:25:33><------------Application Start------------->
+1-Auto Print Report LLTLB>Initial report path E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PAutoPrint\PAutoPrint\bin\Release\Report File\
+1-Auto Print Report LLTLB>05/11/2016 09:25:39> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>05/11/2016 09:25:39> Database connect successful.
+1-Auto Print Report LLTLB>05/11/2016 09:25:43> Printer report Load No.=510224835

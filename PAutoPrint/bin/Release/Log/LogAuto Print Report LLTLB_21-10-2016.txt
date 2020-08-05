@@ -1,0 +1,64 @@
+1-Auto Print Report LLTLB>21/10/2016 08:42:06><------------Application Start------------->
+1-Auto Print Report LLTLB>21/10/2016 08:42:13> SERVER B-LLTLBB
+1-Auto Print Report LLTLB>21/10/2016 08:42:13> Database connect successful.
+1-Auto Print Report LLTLB>Print Report Loading NO 510176098
+1-Auto Print Report LLTLB>Update Print Status of Load Header NO: 510176098
+1-Auto Print Report LLTLB>21/10/2016 09:30:56> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Log\Err_21-10-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>21/10/2016 09:30:56> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Log\Err_21-10-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>21/10/2016 09:30:58> Database disconnect.
+1-Auto Print Report LLTLB>21/10/2016 09:31:58> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>21/10/2016 09:31:58> Database connect successful.
+1-Auto Print Report LLTLB>21/10/2016 09:56:03> Database disconnect.
+1-Auto Print Report LLTLB>21/10/2016 09:56:18> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>21/10/2016 09:56:18> Database connect successful.
+1-Auto Print Report LLTLB>21/10/2016 09:58:13> Database disconnect.
+1-Auto Print Report LLTLB>21/10/2016 09:58:48> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>21/10/2016 09:58:48> Database connect successful.
+1-Auto Print Report LLTLB>21/10/2016 09:58:53> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>21/10/2016 09:58:53> Database connect successful.
+1-Auto Print Report LLTLB>21/10/2016 09:58:58> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>21/10/2016 09:58:58> Database connect successful.
+1-Auto Print Report LLTLB>21/10/2016 09:59:03> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>21/10/2016 09:59:03> Database connect successful.
+1-Auto Print Report LLTLB>21/10/2016 09:59:08> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>21/10/2016 09:59:08> Database connect successful.
+1-Auto Print Report LLTLB>21/10/2016 10:11:24> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Log\Err_21-10-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>21/10/2016 10:11:24> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Log\Err_21-10-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>21/10/2016 10:11:29> Database disconnect.
+1-Auto Print Report LLTLB>21/10/2016 10:15:14> SERVER B-LLTLBB
+1-Auto Print Report LLTLB>21/10/2016 10:15:14> Database connect successful.
+1-Auto Print Report LLTLB>21/10/2016 10:16:22> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Log\Err_21-10-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>21/10/2016 10:16:22> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Log\Err_21-10-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>21/10/2016 10:16:24> Database disconnect.
+1-Auto Print Report LLTLB>21/10/2016 10:40:43> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>21/10/2016 10:40:43> Database connect successful.
+1-Auto Print Report LLTLB>21/10/2016 10:41:17> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Log\Err_21-10-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>21/10/2016 10:41:17> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Log\Err_21-10-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>21/10/2016 10:41:18> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>21/10/2016 10:41:18> Database connect successful.
+1-Auto Print Report LLTLB>21/10/2016 10:41:40> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Log\Err_21-10-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>21/10/2016 10:41:40> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Log\Err_21-10-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>21/10/2016 10:41:43> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>21/10/2016 10:41:43> Database connect successful.
+1-Auto Print Report LLTLB>21/10/2016 10:42:03> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Log\Err_21-10-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>21/10/2016 10:42:03> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Log\Err_21-10-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>21/10/2016 10:42:03> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>21/10/2016 10:42:03> Database connect successful.
+1-Auto Print Report LLTLB>21/10/2016 10:42:24> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Log\Err_21-10-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>21/10/2016 10:42:24> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Log\Err_21-10-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>21/10/2016 10:42:28> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>21/10/2016 10:42:28> Database connect successful.
+1-Auto Print Report LLTLB>21/10/2016 10:42:48> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Log\Err_21-10-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>21/10/2016 10:42:48> The process cannot access the file 'E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\bin\Release\Log\Err_21-10-2016.txt' because it is being used by another process.[source>mscorlib]
+1-Auto Print Report LLTLB>21/10/2016 10:43:03> Oracle.DataAccess.Client.OracleException Connection request timed out    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, Object src)
+   at Oracle.DataAccess.Client.OracleConnection.Open()
+   at PAutoPrintReport.Database.Connect() in e:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\Print_Auto\AutoPrint\Class\Database.cs:line 282
+1-Auto Print Report LLTLB>21/10/2016 10:43:08> Database disconnect.
+1-Auto Print Report LLTLB>21/10/2016 10:50:04> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>21/10/2016 10:50:04> Database connect successful.
+1-Auto Print Report LLTLB>21/10/2016 10:53:29> SERVER B-LLTLBB
+1-Auto Print Report LLTLB>21/10/2016 10:53:29> Database connect successful.
+1-Auto Print Report LLTLB>21/10/2016 10:54:29> SERVER A-LLTLBA
+1-Auto Print Report LLTLB>21/10/2016 10:54:29> Database connect successful.
+1-Auto Print Report LLTLB>21/10/2016 13:04:18><------------Application Stop-------------->

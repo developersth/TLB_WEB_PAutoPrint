@@ -1,0 +1,6 @@
+1-Card Reader Island 8>24/10/2016 02:06:14><------------Application Start------------->
+1-Card Reader Island 8>24/10/2016 02:06:21> SERVER A-LLTLBA
+1-Card Reader Island 8>24/10/2016 02:06:21> Database connect successful.
+1-Card Reader Island 8>24/10/2016 02:15:13><------------Application Start------------->
+1-Card Reader Island 8>24/10/2016 02:15:19> SERVER A-LLTLBA
+1-Card Reader Island 8>24/10/2016 02:15:19> Database connect successful.

@@ -1,0 +1,81 @@
+25/10/2016 20:29:40> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:29:40> ORA-01722: invalid number
+25/10/2016 20:29:59> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:29:59> ORA-01722: invalid number
+25/10/2016 20:30:03> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:30:03> ORA-01722: invalid number
+25/10/2016 20:30:06> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:30:06> ORA-01722: invalid number
+25/10/2016 20:30:14> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:30:14> ORA-01722: invalid number
+25/10/2016 20:30:15> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:30:15> ORA-01722: invalid number
+25/10/2016 20:30:17> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:30:17> ORA-01722: invalid number
+25/10/2016 20:33:22> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:33:22> ORA-01722: invalid number
+25/10/2016 20:33:30> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:33:30> ORA-01722: invalid number
+25/10/2016 20:33:59> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:33:59> ORA-01722: invalid number
+25/10/2016 20:34:00> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:34:00> ORA-01722: invalid number
+25/10/2016 20:34:02> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:34:02> ORA-01722: invalid number
+25/10/2016 20:34:04> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:34:04> ORA-01722: invalid number
+25/10/2016 20:34:05> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:34:05> ORA-01722: invalid number
+25/10/2016 20:41:37> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:41:37> ORA-01722: invalid number
+25/10/2016 20:41:38> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:41:38> ORA-01722: invalid number
+25/10/2016 20:41:41> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:41:41> ORA-01722: invalid number
+25/10/2016 20:41:43> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:41:43> ORA-01722: invalid number
+25/10/2016 20:42:36> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:42:36> ORA-01722: invalid number
+25/10/2016 20:42:44> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:42:44> ORA-01722: invalid number
+25/10/2016 20:43:19> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:43:19> ORA-01722: invalid number
+25/10/2016 20:43:23> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:43:23> ORA-01722: invalid number
+25/10/2016 20:43:25> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:43:25> ORA-01722: invalid number
+25/10/2016 20:43:27> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:43:27> ORA-01722: invalid number
+25/10/2016 20:43:28> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:43:28> ORA-01722: invalid number
+25/10/2016 20:43:30> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:43:30> ORA-01722: invalid number
+25/10/2016 20:43:35> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:43:35> ORA-01722: invalid number
+25/10/2016 20:43:52> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:43:52> ORA-01722: invalid number
+25/10/2016 20:44:39> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:44:39> ORA-01722: invalid number
+25/10/2016 20:44:40> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:44:40> ORA-01722: invalid number
+25/10/2016 20:44:45> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:44:45> ORA-01722: invalid number
+25/10/2016 20:45:43> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:45:43> ORA-01722: invalid number
+25/10/2016 20:46:30> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:46:30> ORA-01722: invalid number
+25/10/2016 20:46:32> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:46:32> ORA-01722: invalid number
+25/10/2016 20:46:33> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:46:33> ORA-01722: invalid number
+25/10/2016 20:46:35> [OpenDyns]select t.* from tas.OIL_LOAD_HEADERS t  where to_char(t.UPDATE_DATE,'dd/MM/yyyy') = to_char('25/10/2016', 'dd/MM/yyyy') and t.LOAD_STATUS = 13 and t.cancel_status = 0  and t.PRINT_STATUS = 0 order by t.UPDATE_DATE
+25/10/2016 20:46:35> ORA-01722: invalid number
+25/10/2016 21:15:23> [Print Loading, Check status report] Column 'is_weight_process' does not belong to table TableName.
+25/10/2016 21:24:09> [Print Loading, Load data report] Invalid printer specified.
+Delivery_Receipt(Auto) 7584_9828_{4BCD1D25-F53E-49B8-A416-D3DE1EE02B3D}.rpt
+25/10/2016 21:27:07> [Print Loading, Load data report] Invalid printer specified.
+Delivery_Receipt(Auto) 7584_9828_{D0EB140F-8093-4560-A3DC-F15952029466}.rpt
+25/10/2016 21:28:57> [Print Loading, Load data report] Invalid printer specified.
+Delivery_Receipt(Auto) 7584_9828_{5884A26B-D806-46BD-B2BA-0F872669F413}.rpt
+25/10/2016 23:41:33> [Print Loading, Load data report] Error in File Delivery_Receipt(Auto) 1084_4612_{E9DE7A82-2BCC-4803-9300-E8FB39F6AAEC}.rpt:
+Unable to connect: incorrect log on parameters.
